@@ -23,4 +23,9 @@ def create_app(test_config=None):
     def hello():
         return 'Hello, World!'
 
+    # only here for verifying Pytest basic setup
+
     return app
+
+def hello_world():
+    return 'Hello, World!'

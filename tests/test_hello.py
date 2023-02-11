@@ -1,4 +1,4 @@
-from wrld_spc import hello_world
+import world_spc
 
 def test_hello_world():
-    assert hello_world() == 'Hello, World!'
+    assert world_spc.hello_world() == 'Hello, World!'
