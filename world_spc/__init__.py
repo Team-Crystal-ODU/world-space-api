@@ -2,7 +2,10 @@
 import os
 
 from flask import Flask
-from flask_restful import Api, Resource, url_for
+from flask_restful import Api, Blueprint, Resource, url_for
+from flask_pymongo import PyMongo
+
+
 from world_spc.resources.greeting import HelloWorld
 
 # Flask app factory using some boilerplate from docs
@@ -11,7 +14,8 @@ def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_mapping(
         SECRET_KEY='dev',
-        # database?
+        # DB connection depends on Docker container running locally
+        MONGO_URI='mongodb://localhost:27017/worldSpace'
     )
 
     if test_config is None:
@@ -25,12 +29,20 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    # set up Flask Restful API object
-    api = Api(app)
+    # register MongoDB
+    # access db as mongo.db
+    mongo = PyMongo(app)
 
-    # Add resources to API here. These will live in resources folder.
+    # set up Flask Restful API object
+    api_bp = Blueprint('api', __name__)
+    api = Api(api_bp)
+
+    # Add resources and routing info here. 
+    # Resource classes live in resources folder.
     # api.add_resource(Class, '/endpoint0', '/endpoint1')
     api.add_resource(HelloWorld, '/')
+
+    app.register_blueprint(api_bp)
 
     return app
 
