@@ -39,7 +39,7 @@ def create_app(test_config=None):
     # Resource classes live in resources folder.
     # api.add_resource(Class, '/endpoint0', '/endpoint1')
     api.add_resource(HelloWorld, '/')
-    api.add_resource(Grid, '/grid/<string:region>')
+    api.add_resource(Grid, '/grid', endpoint='grid_ep')
 
     app.register_blueprint(api_bp)
 
