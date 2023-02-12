@@ -1,12 +1,12 @@
 # file for app factory and defining routes to resources
 import os
 
-from flask import Flask
-from flask_restful import Api, Blueprint, Resource, url_for
+from flask import Flask, Blueprint
 from flask_pymongo import PyMongo
-
+from flask_restful import Api
 
 from world_spc.resources.greeting import HelloWorld
+from world_spc.resources.grid import Grid
 
 # Flask app factory using some boilerplate from docs
 # TODO research config, setup options: Database config?
@@ -32,8 +32,6 @@ def create_app(test_config=None):
     # register MongoDB
     # access db as mongo.db
     mongo = PyMongo(app)
-
-    # set up Flask Restful API object
     api_bp = Blueprint('api', __name__)
     api = Api(api_bp)
 
@@ -41,6 +39,7 @@ def create_app(test_config=None):
     # Resource classes live in resources folder.
     # api.add_resource(Class, '/endpoint0', '/endpoint1')
     api.add_resource(HelloWorld, '/')
+    api.add_resource(Grid, '/grid/<string:region>')
 
     app.register_blueprint(api_bp)
 
