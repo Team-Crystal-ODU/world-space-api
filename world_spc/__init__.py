@@ -8,6 +8,7 @@ from flask_restful import Api
 from world_spc.resources.greeting import HelloWorld
 from world_spc.resources.grid import Grid
 
+
 # Flask app factory using some boilerplate from docs
 # TODO research config, setup options: Database config?
 def create_app(test_config=None):
@@ -35,7 +36,7 @@ def create_app(test_config=None):
     api_bp = Blueprint('api', __name__)
     api = Api(api_bp)
 
-    # Add resources and routing info here. 
+    # Add resources and routing here
     # Resource classes live in resources folder.
     # api.add_resource(Class, '/endpoint0', '/endpoint1')
     api.add_resource(HelloWorld, '/')
@@ -44,7 +45,3 @@ def create_app(test_config=None):
     app.register_blueprint(api_bp)
 
     return app
-
-# sanity check for Pytest basic setup
-def hello_world():
-    return 'Hello, World!'

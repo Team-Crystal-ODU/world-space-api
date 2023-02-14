@@ -1,5 +1,5 @@
-from flask_restful import Resource, fields, reqparse, marshal_with
-from flask import current_app, request, abort
+from flask_restful import Resource
+from flask import request, abort
 from marshmallow import Schema, fields
 from common.util import create_mock_payload
 
