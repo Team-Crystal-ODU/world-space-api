@@ -7,16 +7,23 @@ from datetime import datetime
 def parse_latest():
     result = {}
     with open(
-        # os.path.join(current_app.instance_path, 
-                     'mock_raw_grid_data.json') as json_file:
+        os.path.join(
+            current_app.instance_path,
+            'mock_raw_grid_data.json'
+        )
+    ) as json_file:
         raw_data = json.load(json_file)
         generation_data = raw_data['series'][:]
         result.update({
-            'timestamp': raw_data['series'][0]['data'][-1]['Timestamp (Hour Ending)']
+            'timestamp':
+                format_timestamp(
+                    raw_data['series'][0]['data']
+                    [-1]['Timestamp (Hour Ending)']
+                )
             })
         result.update({'megawatts': retrieve_hour(generation_data)})
     return result
-    
+
 
 def retrieve_hour(data):
     result = {}
@@ -28,8 +35,14 @@ def retrieve_hour(data):
 
 
 def format_timestamp(unformatted):
-    # TODO handle timezone offset -- convert to UTC?
-
+    """
+    Takes the timestamp value from the EIA grid data and formats it
+    for insertion into MongoDB. Date is separated from time. Time
+    stored as integer (0-23) for hour-ending, where 0 corresponds to
+    midnight.
+    Args: The unformatted timestamp string.
+    Yields: A list of the form [date: str, time: int, timezone: str]
+    """
     parts = unformatted.split(' ')
     # format date part
     date_part = datetime.strptime(parts[0], '%m/%d/%Y')
@@ -40,14 +53,13 @@ def format_timestamp(unformatted):
     else:
         parts[1] = ' '.join((parts[1], 'PM'))
     time_part = datetime.strptime(parts[1], '%I %p')
-    formatted = ''.join((date_part.strftime('<%Y-%m-%dT'), time_part.strftime('%H:%M:%S>')))
-    print(formatted)
+    formatted = [
+            date_part.strftime('<%Y-%m-%d>'),
+            int(time_part.strftime('%H')),
+            parts[3]]
     return formatted
 
 
 if __name__ == "__main__":
     result = parse_latest()
-    test_timestamp = "2/12/2023 1 a.m. PST"
-    format_timestamp(test_timestamp)
     print(result)
-

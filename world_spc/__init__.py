@@ -7,6 +7,7 @@ from flask_restful import Api
 
 from world_spc.resources.greeting import HelloWorld
 from world_spc.resources.grid import Grid
+from world_spc.resources.game import Game
 
 
 # Flask app factory using some boilerplate from docs
@@ -42,6 +43,7 @@ def create_app(test_config=None):
     # api.add_resource(Class, '/endpoint0', '/endpoint1')
     api.add_resource(HelloWorld, '/')
     api.add_resource(Grid, '/grid', endpoint='grid_ep')
+    api.add_resource(Game, '/game', endpoint='game_ep')
 
     app.register_blueprint(api_bp)
 
