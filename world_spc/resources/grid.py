@@ -2,6 +2,7 @@ from flask_restful import Resource
 from flask import request, abort
 from marshmallow import Schema, fields
 from world_spc.common import util
+from world_spc.workers import grid_worker
 
 
 # Marshmallow for data validation and defining schema
@@ -30,4 +31,4 @@ class Grid(Resource):
         start = request.args["start"]
         end = request.args["end"]
         return {"region": region, "start": start, "end": end,
-                "data": util.create_mock_payload()}
+                "data": grid_worker.parse_latest()}
