@@ -1,8 +1,9 @@
 # file for app factory and defining routes to resources
 import os
+import urllib.parse
 
 from flask import Flask, Blueprint
-from flask_pymongo import PyMongo
+from .extensions import mongo
 from flask_restful import Api
 
 from world_spc.resources.greeting import HelloWorld
@@ -17,7 +18,12 @@ def create_app(test_config=None):
     app.config.from_mapping(
         SECRET_KEY='dev',
         # DB connection depends on Docker container running locally
-        MONGO_URI='mongodb://localhost:27017/worldSpace'
+    )
+    username = urllib.parse.quote_plus('admin')
+    password = urllib.parse.quote_plus('password')
+    app.config["MONGO_URI"] = (
+            "mongodb://%s:%s@localhost:27017/world-space?authSource=admin"
+            % (username, password)
     )
 
     if test_config is None:
@@ -31,9 +37,8 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    # register MongoDB
-    # access db as mongo.db
-    mongo = PyMongo(app)
+    mongo.init_app(app)
+
     # register Flask-Restful as blueprint
     api_bp = Blueprint('api', __name__)
     api = Api(api_bp)

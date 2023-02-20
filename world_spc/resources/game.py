@@ -1,5 +1,5 @@
 from flask_restful import Resource
-from flask import request, abort
+from flask import request, abort, current_app
 from marshmallow import Schema, fields
 from world_spc.common import util
 
