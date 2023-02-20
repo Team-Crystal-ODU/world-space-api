@@ -5,4 +5,6 @@ from world_spc.extensions import mongo
 
 class HelloWorld(Resource):
     def get(self):
-        mongo.db.hello.insert_one({"some": "very", "random": "document"})
+        data = mongo.db.hello.find_one({"some": "very"})
+        data.pop('_id')
+        return data
