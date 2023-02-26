@@ -1,7 +1,6 @@
 from flask_restful import Resource
 from flask import request, abort
 from marshmallow import Schema, fields
-from world_spc.common import util
 from world_spc.workers import grid_worker
 
 

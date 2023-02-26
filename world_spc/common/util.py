@@ -44,4 +44,4 @@ def create_mock_game_state():
 
 
 if __name__ == "__main__":
-    print(create_mock_game_state())
+    print(create_mock_payload())
