@@ -7,8 +7,8 @@ from world_spc.workers import grid_worker
 # Marshmallow for data validation and defining schema
 class GridQuerySchema(Schema):
     region = fields.Str(required=True)
-    start = fields.Str()
-    end = fields.Str()
+    start = fields.DateTime(required=True)
+    end = fields.DateTime(required=True)
 
 
 q_schema = GridQuerySchema()
