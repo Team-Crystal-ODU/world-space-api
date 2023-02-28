@@ -53,10 +53,8 @@ def format_timestamp(unformatted):
     else:
         parts[1] = ' '.join((parts[1], 'PM'))
     time_part = datetime.strptime(parts[1], '%I %p')
-    formatted = [
-            date_part.strftime('<%Y-%m-%d>'),
-            int(time_part.strftime('%H')),
-            parts[3]]
+    formatted = ''.join((date_part.strftime('%Y-%m-%dT'),
+                        time_part.strftime('%H:%M:%S')))
     return formatted
 
 
