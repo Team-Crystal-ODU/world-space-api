@@ -5,8 +5,10 @@ import json
 
 
 def main():
+    # TODO intelligently construct start and end dates by parsing data
     start_date = datetime(2023, 2, 21, 0)
     end_date = datetime(2023, 2, 27, 0)
+
     bucket = {}
     bucket.update({'region': 'mida'})
     bucket.update({'start_date': start_date.strftime('%Y-%m-%dT%H:%M:%S')})
@@ -41,7 +43,9 @@ def main():
                         }
                 )
         result = json.dumps(bucket, indent=4)
-        print(result)
+
+    with open('mock_formatted_grid_data.json', 'w') as outfile:
+        outfile.write(result)
 
 
 if __name__ == "__main__":
