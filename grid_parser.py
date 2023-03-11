@@ -31,7 +31,8 @@ def main():
             bucket['data'].append(
                     {
                         'timestamp': format_timestamp(
-                            generation_data[0]['data'][i]['Timestamp (Hour Ending)']
+                            generation_data[0]
+                            ['data'][i]['Timestamp (Hour Ending)']
                         ),
                         'megawatts': {}
                     }

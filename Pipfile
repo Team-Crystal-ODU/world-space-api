@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 flask = "*"
 pytest = "*"
+flask-restful = "*"
+marshmallow = "*"
+python-dateutil = "*"
 
 [dev-packages]
 pylint = "*"

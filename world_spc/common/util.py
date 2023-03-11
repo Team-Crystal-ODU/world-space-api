@@ -26,16 +26,16 @@ def create_mock_game_state():
                 "xp": 23560
             }
     species_dict = {
-                "foxes": {
-                        "number": 20,
+                "fox": {
+                        "population": 20,
                         "status": "OK"
                     },
-                "bluebirds": {
-                        "number": 11,
+                "bluebird": {
+                        "population": 11,
                         "status": "Struggling"
                     },
-                "bears": {
-                        "number": 8,
+                "bear": {
+                        "population": 8,
                         "status": "Endangered"
                     }
             }
@@ -44,4 +44,4 @@ def create_mock_game_state():
 
 
 if __name__ == "__main__":
-    print(create_mock_payload())
+    print(create_mock_game_state())

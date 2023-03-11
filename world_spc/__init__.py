@@ -20,12 +20,12 @@ def create_app(test_config=None):
         SECRET_KEY='dev',
         # DB connection depends on Docker container running locally
     )
-    # don't try to connect to Mongo instance for now
+    #   don't try to connect to Mongo instance for now
     #   username = urllib.parse.quote_plus('admin')
     #   password = urllib.parse.quote_plus('password')
     #   app.config["MONGO_URI"] = (
-    #           "mongodb://%s:%s@localhost:27017/world-space?authSource=admin"
-    #           % (username, password)
+    #       "mongodb://%s:%s@localhost:27017/world-space?authSource=admin"
+    #       % (username, password)
     #   )
 
     if test_config is None:
