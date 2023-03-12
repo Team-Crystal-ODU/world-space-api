@@ -1,13 +1,13 @@
 from datetime import datetime
 from dateutil.rrule import rrule, HOURLY
-from world_spc.workers.grid_worker import format_timestamp
+from world_spc.scribes.grid_worker import format_timestamp
 import json
 
 
 def main():
     # TODO intelligently construct start and end dates by parsing data
-    start_date = datetime(2023, 2, 21, 0)
-    end_date = datetime(2023, 2, 27, 0)
+    start_date = datetime(2023, 2, 14, 0)
+    end_date = datetime(2023, 2, 20, 0)
 
     bucket = {}
     bucket.update({'region': 'mida'})
@@ -19,7 +19,7 @@ def main():
 
     hours = [timestamp for timestamp in rrule(
         HOURLY, dtstart=start_date, until=end_date
-        )]
+    )]
 
     with open('mock_raw_grid_data.json') as f:
         raw_data = json.load(f)
@@ -29,19 +29,19 @@ def main():
             fuels.append(generation_data[i]['name'])
         for i, hour in enumerate(hours):
             bucket['data'].append(
-                    {
-                        'timestamp': format_timestamp(
-                            generation_data[0]
-                            ['data'][i]['Timestamp (Hour Ending)']
-                        ),
-                        'megawatts': {}
-                    }
+                {
+                    'timestamp': format_timestamp(
+                        generation_data[0]
+                        ['data'][i]['Timestamp (Hour Ending)']
+                    ),
+                    'megawatts': {}
+                }
             )
             for j, fuel in enumerate(fuels):
                 bucket['data'][i]['megawatts'].update(
-                        {
-                            fuel: int(generation_data[j]['data'][i]['value'])
-                        }
+                    {
+                        fuel: int(generation_data[j]['data'][i]['value'])
+                    }
                 )
         result = json.dumps(bucket, indent=4)
 

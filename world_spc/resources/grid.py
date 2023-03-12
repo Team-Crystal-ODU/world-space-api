@@ -1,7 +1,7 @@
 from flask_restful import Resource
 from flask import current_app, request, abort
 from marshmallow import Schema, fields
-from world_spc.workers import grid_worker
+from world_spc.scribes import grid_worker
 from datetime import datetime
 from dateutil.rrule import rrule, HOURLY
 import json
@@ -36,37 +36,37 @@ class Grid(Resource):
         else:
             response = {'region': 'mida'}
             start = datetime.strptime(
-                    request.args["start"],
-                    '%Y-%m-%dT%H:%M:%S'
-                    )
+                request.args["start"],
+                '%Y-%m-%dT%H:%M:%S'
+            )
             end = datetime.strptime(
-                    request.args["end"],
-                    '%Y-%m-%dT%H:%M:%S'
-                    )
+                request.args["end"],
+                '%Y-%m-%dT%H:%M:%S'
+            )
             response.update({
                 "start": start.strftime('%Y-%m-%dT%H:%M:%S'),
                 "end": end.strftime('%Y-%m-%dT%H:%M:%S'),
                 "data": []
-                })
+            })
             with open(
                     os.path.join(
                         current_app.instance_path,
                         'mock_formatted_grid_data.json')
-                    ) as json_file:
+            ) as json_file:
                 grid_data = json.load(json_file)
 
             hours = [timestamp for timestamp in rrule(
                 HOURLY, dtstart=start, until=end
-                )]
+            )]
             for hour in hours:
                 mw = {}
                 for obj in grid_data['data']:
                     if obj['timestamp'] == hour.strftime('%Y-%m-%dT%H:%M:%S'):
                         mw = obj['megawatts']
                 reading = {
-                        'timestamp': hour.strftime('%Y-%m-%dT%H:%M:%S'),
-                        'megawatts': mw
-                        }
+                    'timestamp': hour.strftime('%Y-%m-%dT%H:%M:%S'),
+                    'megawatts': mw
+                }
                 response['data'].append(reading)
 
         return response

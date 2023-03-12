@@ -3,7 +3,7 @@ import os
 import urllib.parse
 
 from flask import Flask, Blueprint
-#from .extensions import mongo
+# from .extensions import mongo
 from flask_restful import Api
 
 from world_spc.resources.greeting import HelloWorld
