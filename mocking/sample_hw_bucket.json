@@ -10,7 +10,7 @@
         {
             "timestamp": "YYYY-MM-DDThh:mm:ss",
             "gpu_watts": 25,
-            "cpu_watts": 29
+    "cpu_watts": 29
         },
         {
             "timestamp": "YYYY-MM-DDThh:mm:ss",
