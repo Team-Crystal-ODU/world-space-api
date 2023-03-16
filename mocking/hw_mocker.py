@@ -10,13 +10,15 @@ def generate_hour(start, end):
         SECONDLY, dtstart=start, until=end
     )]
     for second in seconds:
-        timestamp = second.strftime('%Y:%m:%dT%H:%M:%S')
+        timestamp = second.strftime('%Y-%m-%dT%H:%M:%S')
         cpu = random.randint(9, 50)
         gpu = random.randint(35, 120)
         data.append({
             'timestamp': timestamp,
-            'gpu_watts': gpu,
-            'cpu_watts': cpu
+            'watts': {
+                'gpu_watts': gpu,
+                'cpu_watts': cpu
+            }
         })
     return data
 
@@ -31,16 +33,16 @@ def main():
 
     for hour in hours:
         start = hour - timedelta(hours=1)
-        end = hour
+        end = hour - timedelta(seconds=1)
         bucket = {
-            'start_time': start.strftime('%Y:%m:%dT%H:%M:%S'),
-            'end_time': end.strftime('%Y:%m:%dT%H:%M:%S')
+            'start_time': start.strftime('%Y-%m-%dT%H:%M:%S'),
+            'end_time': end.strftime('%Y-%m-%dT%H:%M:%S')
         }
         bucket.update({'data': generate_hour(start, end)})
         filepath = ''.join((
             'mock_user_samples/',
             'hour_ending',
-            end.strftime('%Y:%m:%dT%H:%M:%S'),
+            hour.strftime('%Y-%m-%dT%H:%M:%S'),
             '.json'
         ))
         result = json.dumps(bucket, indent=4)

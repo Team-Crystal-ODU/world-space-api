@@ -41,7 +41,7 @@ def create_app(test_config=None):
 
     # mongo.init_app(app)
 
-    # register Flask-Restful as blueprint
+    # register Flask-Restful as Blueprint and init
     api_bp = Blueprint('api', __name__)
     api = Api(api_bp)
 
