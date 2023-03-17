@@ -53,4 +53,13 @@ def create_app(test_config=None):
 
     app.register_blueprint(api_bp)
 
+    @app.after_request
+    def after_all_request(response):
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        response.headers.add('Acess-Control-Allow-Headers',
+                             'Content-Type, Authorization')
+        response.headers.add(
+            'Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
+        return response
+
     return app
