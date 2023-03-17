@@ -1,7 +1,6 @@
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY, SECONDLY
 import random
-import json
 
 
 def generate_hour(start, end):
@@ -23,13 +22,15 @@ def generate_hour(start, end):
     return data
 
 
-def main():
+def generate(db):
     start = datetime(2023, 2, 14, 0)
     end = datetime(2023, 2, 20, 0)
 
     hours = [timestamp for timestamp in rrule(
         HOURLY, dtstart=start, until=end
     )]
+
+    col = db['ecogamer']
 
     for hour in hours:
         start = hour - timedelta(hours=1)
@@ -39,16 +40,8 @@ def main():
             'end_time': end.strftime('%Y-%m-%dT%H:%M:%S')
         }
         bucket.update({'data': generate_hour(start, end)})
-        filepath = ''.join((
-            'mock_user_samples/',
-            'hour_ending',
-            hour.strftime('%Y-%m-%dT%H:%M:%S'),
-            '.json'
-        ))
-        result = json.dumps(bucket, indent=4)
-        with open(filepath, 'w') as outfile:
-            outfile.write(result)
+        col.insert_one(bucket)
 
 
 if __name__ == "__main__":
-    main()
+    generate()

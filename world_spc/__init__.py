@@ -1,15 +1,15 @@
 # file for app factory and defining routes to resources
 import os
-import urllib.parse
 
 from flask import Flask, Blueprint
-# from .extensions import mongo
+from .extensions import mongo
 from flask_restful import Api
 
 from world_spc.resources.greeting import HelloWorld
 from world_spc.resources.grid import Grid
 from world_spc.resources.game import Game
 from world_spc.resources.carbon import Carbon
+from world_spc.resources.hardware import Hardware
 
 
 # Flask app factory using some boilerplate from docs
@@ -20,13 +20,10 @@ def create_app(test_config=None):
         SECRET_KEY='dev',
         # DB connection depends on Docker container running locally
     )
-    #   don't try to connect to Mongo instance for now
-    #   username = urllib.parse.quote_plus('admin')
-    #   password = urllib.parse.quote_plus('password')
-    #   app.config["MONGO_URI"] = (
-    #       "mongodb://%s:%s@localhost:27017/world-space?authSource=admin"
-    #       % (username, password)
-    #   )
+
+    app.config["MONGO_URI"] = (
+        "mongodb://localhost:27017/world_space"
+    )
 
     if test_config is None:
         app.config.from_pyfile('config.py', silent=True)
@@ -39,7 +36,7 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    # mongo.init_app(app)
+    mongo.init_app(app)
 
     # register Flask-Restful as Blueprint and init
     api_bp = Blueprint('api', __name__)
@@ -52,6 +49,7 @@ def create_app(test_config=None):
     api.add_resource(Grid, '/grid', endpoint='grid_ep')
     api.add_resource(Game, '/game', endpoint='game_ep')
     api.add_resource(Carbon, '/carbon', endpoint='carbon_ep')
+    api.add_resource(Hardware, '/hardware', endpoint='hardware_ep')
 
     app.register_blueprint(api_bp)
 
