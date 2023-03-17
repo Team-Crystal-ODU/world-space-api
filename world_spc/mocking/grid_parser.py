@@ -11,7 +11,7 @@ def generate(db):
     end_date = datetime(2023, 2, 20, 0)
 
     # Build a list of hours based on the overall span of grid data
-    # to be parse.
+    # to be parsed.
     hours = [timestamp for timestamp in rrule(
         HOURLY, dtstart=start_date, until=end_date
     )]

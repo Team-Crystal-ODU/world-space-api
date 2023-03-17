@@ -50,7 +50,8 @@ def create_mock_carbon_readout():
     only.
     """
     data = {}
-    data.update({'username': 'ecogamer', 'ppm': 335})
+    data.update({'username': 'ecogamer', 'ppm': 335,
+                'co2': 30, 'miles_drive': 23})
     usage_dict = {
         'past24hours': {},
         'past10days': {}
