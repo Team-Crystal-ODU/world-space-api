@@ -1,34 +1,35 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
 from world_spc.scribes.grid_worker import format_timestamp
+from flask import current_app
 import json
 
 
-def main():
+def generate(db):
     # TODO intelligently construct start and end dates by parsing data
     start_date = datetime(2023, 2, 14, 0)
     end_date = datetime(2023, 2, 20, 0)
 
-    bucket = {}
-    bucket.update({'region': 'mida'})
-    bucket.update({'start_date': start_date.strftime('%Y-%m-%dT%H:%M:%S')})
-    bucket.update({'end_date': end_date.strftime('%Y-%m-%dT%H:%M:%S')})
-    bucket.update({'data': []})
-
-    print(bucket)
-
+    # Build a list of hours based on the overall span of grid data
+    # to be parse.
     hours = [timestamp for timestamp in rrule(
         HOURLY, dtstart=start_date, until=end_date
     )]
 
-    with open('mock_raw_grid_data.json') as f:
+    with current_app.open_resource('mocking/mock_raw_grid_data.json') as f:
         raw_data = json.load(f)
         generation_data = raw_data['series'][:]
         fuels = []
+        col = db['grid']
         for i, elem in enumerate(generation_data):
             fuels.append(generation_data[i]['name'])
         for i, hour in enumerate(hours):
-            bucket['data'].append(
+            bucket = {}
+            bucket.update({
+                'region': 'mida',
+                'data': []
+            })
+            bucket.update(
                 {
                     'timestamp': format_timestamp(
                         generation_data[0]
@@ -38,16 +39,13 @@ def main():
                 }
             )
             for j, fuel in enumerate(fuels):
-                bucket['data'][i]['megawatts'].update(
+                bucket['megawatts'].update(
                     {
                         fuel: int(generation_data[j]['data'][i]['value'])
                     }
                 )
-        result = json.dumps(bucket, indent=4)
-
-    with open('mock_formatted_grid_data.json', 'w') as outfile:
-        outfile.write(result)
+            col.insert_one(bucket)
 
 
 if __name__ == "__main__":
-    main()
+    generate()

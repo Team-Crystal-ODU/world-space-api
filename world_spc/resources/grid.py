@@ -1,11 +1,12 @@
 from flask_restful import Resource
 from flask import current_app, request, abort
 from marshmallow import Schema, fields
-from world_spc.scribes import grid_worker
+from world_spc.mocking import grid_parser
 from datetime import datetime
 from dateutil.rrule import rrule, HOURLY
 import json
 import os
+from world_spc.extensions import mongo
 
 
 # Marshmallow for data validation and defining schema
@@ -70,3 +71,7 @@ class Grid(Resource):
                 response['data'].append(reading)
 
         return response
+
+    def post(self):
+        grid_parser.generate(mongo.db)
+        return 'Write to database successful.'
