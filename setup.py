@@ -7,8 +7,10 @@ setup(
     include_package_data=True,
     install_requires=[
         'flask',
-        'flask_restful',
+        'flask-restful',
         'Flask-PyMongo',
+        'python-dateutil',
+        'marshmallow',
         'pymongo[srv]'
     ]
 )

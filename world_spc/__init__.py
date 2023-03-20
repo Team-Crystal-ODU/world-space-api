@@ -22,7 +22,7 @@ def create_app(test_config=None):
     )
 
     app.config["MONGO_URI"] = (
-        "mongodb://localhost:27017/world_space"
+        "mongodb://172.19.0.2:27017/world_space"
     )
 
     if test_config is None:
