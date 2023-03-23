@@ -1,6 +1,5 @@
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
-from world_spc.scribes.grid_scribe import format_timestamp
 from flask import current_app
 import json
 
@@ -45,6 +44,30 @@ def generate(db):
                     }
                 )
             col.insert_one(bucket)
+
+
+def format_timestamp(unformatted):
+    """
+    Takes the timestamp value from the EIA grid data and formats it
+    for insertion into MongoDB. Date is separated from time. Time
+    stored as integer (0-23) for hour-ending, where 0 corresponds to
+    midnight.
+    Args: The unformatted timestamp string.
+    Yields: A list of the form [date: str, time: int, timezone: str]
+    """
+    parts = unformatted.split(' ')
+    # format date part
+    date_part = datetime.strptime(parts[0], '%m/%d/%Y')
+
+    # format time part
+    if parts[2] == 'a.m.':
+        parts[1] = ' '.join((parts[1], 'AM'))
+    else:
+        parts[1] = ' '.join((parts[1], 'PM'))
+    time_part = datetime.strptime(parts[1], '%I %p')
+    formatted = ''.join((date_part.strftime('%Y-%m-%dT'),
+                        time_part.strftime('%H:%M:%S')))
+    return formatted
 
 
 if __name__ == "__main__":

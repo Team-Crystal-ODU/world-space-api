@@ -20,7 +20,7 @@ def parse_latest():
                     raw_data['series'][0]['data']
                     [-1]['Timestamp (Hour Ending)']
                 )
-            })
+        })
         result.update({'megawatts': retrieve_hour(generation_data)})
     return result
 
