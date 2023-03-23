@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
-from world_spc.scribes.grid_worker import format_timestamp
+from world_spc.scribes.grid_scribe import format_timestamp
 from flask import current_app
 import json
 
