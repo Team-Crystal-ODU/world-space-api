@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
 from flask import current_app
+import pytz
 import json
 
 
@@ -26,7 +27,6 @@ def generate(db):
             bucket = {}
             bucket.update({
                 'region': 'mida',
-                'data': []
             })
             bucket.update(
                 {
@@ -65,9 +65,11 @@ def format_timestamp(unformatted):
     else:
         parts[1] = ' '.join((parts[1], 'PM'))
     time_part = datetime.strptime(parts[1], '%I %p')
-    formatted = ''.join((date_part.strftime('%Y-%m-%dT'),
-                        time_part.strftime('%H:%M:%S')))
-    return formatted
+    formatted_as_str = ''.join((date_part.strftime('%Y-%m-%dT'),
+                                time_part.strftime('%H:%M:%S')))
+    formatted = datetime.strptime(formatted_as_str, '%Y-%m-%dT%H:%M:%S')
+    est = pytz.timezone('US/Eastern')
+    return est.localize(formatted)
 
 
 if __name__ == "__main__":

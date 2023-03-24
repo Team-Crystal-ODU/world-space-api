@@ -2,6 +2,8 @@ import json
 from flask import current_app
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
+from bson.json_util import dumps, loads
+import pytz
 
 
 def get_CO2_per_watt_hour(grid_data: dict, start: datetime, end: datetime):
@@ -20,7 +22,28 @@ def get_grid_data(start: datetime, end: datetime, db):
     Retrieve hourly grid data inclusive of the specified
     start and end times.
     """
-    pass
+    delta = timedelta(hours=1)
+    est = pytz.timezone('US/Eastern')
+    test_timestamp = datetime(2023, 2, 14, 1)
+    first_hour = datetime(start.year, start.month,
+                          start.day, start.hour) + delta
+    last_hour = datetime(end.year, end.month,
+                         end.day, end.hour) + delta
+    query = db.grid.find({
+        'timestamp': {'$gte': est.localize(first_hour),
+                      '$lte': est.localize(last_hour)}
+    })
+
+    result = []
+    tz = timedelta(hours=5)
+
+    for obj in query:
+        obj.pop('_id')
+        obj['timestamp'] = obj['timestamp'] - tz
+        obj['timestamp'] = str(obj['timestamp'])
+        result.append(obj)
+
+    return result
 
 
 def get_watt_hours_over_interval(start: datetime, end: datetime, user, db):
@@ -34,6 +57,11 @@ def get_five_day_range():
     end = datetime(2023, 2, 20, 22, 35, 23)
     start = end - timedelta(days=5)
     # print(f'start={datetime.strftime(start, "%Y-%m-%dT%H:%M:%S")}')
+    rounded_start = datetime(start.year, start.month, start.day, start.hour)
+    rounded_end = datetime(end.year, end.month, end.day, end.hour)
+    rounded_end += timedelta(hours=1)
+    print(end)
+    print(rounded_end)
     # print(f'end={datetime.strftime(end, "%Y-%m-%dT%H:%M:%S")}')
     return start, end
 
@@ -61,7 +89,7 @@ def get_carbon_readout(user, db):
 
 
 def main():
-    pass
+    get_five_day_range()
 
 
 if __name__ == "__main__":
