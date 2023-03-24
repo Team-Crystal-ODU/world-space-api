@@ -8,19 +8,20 @@ from world_spc import create_app
 def app():
     app = create_app({
         'TESTING': True,
-        # DATABASE: db_path,
+        'MONGO_URI': 'mongodb://localhost:27017/test_db',
     })
 
     # call initialization functions here
     with app.app_context():
-        #init_db()
+        # init_db()
         pass
 
     yield app
 
-    #teardown 
+    # teardown
 
-# object to simulate client interaction with Flask app 
+
+# object to simulate client interaction with Flask app
 @pytest.fixture
 def client(app):
     return app.test_client()
