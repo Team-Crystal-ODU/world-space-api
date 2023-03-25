@@ -6,22 +6,32 @@ import pytz
 
 def generate_hour(start, end):
     data = []
+    gaming = random.randint(0, 1)
     est = pytz.timezone('US/Eastern')
     seconds = [timestamp for timestamp in rrule(
         SECONDLY, dtstart=start, until=end
     )]
-    for second in seconds:
+    count = 0
+    sum = 0
+    for i, second in enumerate(seconds):
         # timestamp = second.strftime('%Y-%m-%dT%H:%M:%S')
-        cpu = random.randint(9, 50)
-        gpu = random.randint(35, 120)
-        data.append({
-            'timestamp': est.localize(second),
-            'watts': {
-                'gpu_watts': gpu,
-                'cpu_watts': cpu
-            }
-        })
-    return data
+        if i % 5 == 0:
+            if gaming == 1:
+                cpu = random.randint(75, 120)
+                gpu = random.randint(195, 320)
+            else:
+                cpu = random.randint(10, 75)
+                gpu = random.randint(30, 80)
+            count += 1
+            sum += (cpu + gpu)
+            data.append({
+                'timestamp': est.localize(second),
+                'watts': {
+                    'gpu_watts': gpu,
+                    'cpu_watts': cpu
+                }
+            })
+    return data, count, sum
 
 
 def generate(db):
@@ -42,7 +52,8 @@ def generate(db):
             'start_time': est.localize(start),
             'end_time': est.localize(end)
         }
-        bucket.update({'data': generate_hour(start, end)})
+        data, count, sum = generate_hour(start, end)
+        bucket.update({'samples': data, 'sample_count': count, 'total': sum})
         col.insert_one(bucket)
 
 

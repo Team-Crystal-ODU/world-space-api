@@ -1,4 +1,3 @@
-import json
 from flask import current_app
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
@@ -24,7 +23,7 @@ def get_grid_data(start: datetime, end: datetime, db):
     """
     delta = timedelta(hours=1)
     est = pytz.timezone('US/Eastern')
-    test_timestamp = datetime(2023, 2, 14, 1)
+
     first_hour = datetime(start.year, start.month,
                           start.day, start.hour) + delta
     last_hour = datetime(end.year, end.month,
@@ -35,6 +34,8 @@ def get_grid_data(start: datetime, end: datetime, db):
     })
 
     result = []
+    # naive tz adjustment, because localize not working as expected
+    # for string output
     tz = timedelta(hours=5)
 
     for obj in query:
@@ -50,19 +51,21 @@ def get_watt_hours_over_interval(start: datetime, end: datetime, user, db):
     """
     Retrieve user watt-hours over a specified interval.
     """
-    pass
+    est = pytz.timezone('US/Eastern')
+    query = db.ecogamer.find({
+        'end_time': {'$gte': est.localize(start),
+                     '$lte': est.localize(end)}
+    })
+
+    query_as_list = list(query)
+    result = dumps(query_as_list)
+
+    return result
 
 
 def get_five_day_range():
     end = datetime(2023, 2, 20, 22, 35, 23)
     start = end - timedelta(days=5)
-    # print(f'start={datetime.strftime(start, "%Y-%m-%dT%H:%M:%S")}')
-    rounded_start = datetime(start.year, start.month, start.day, start.hour)
-    rounded_end = datetime(end.year, end.month, end.day, end.hour)
-    rounded_end += timedelta(hours=1)
-    print(end)
-    print(rounded_end)
-    # print(f'end={datetime.strftime(end, "%Y-%m-%dT%H:%M:%S")}')
     return start, end
 
 
@@ -80,10 +83,14 @@ def get_carbon_readout(user, db):
     grid_data = get_grid_data(start, end, db)
     co2_per_wh = get_CO2_per_watt_hour(grid_data, start, end)
 
-    total_CO2 = watt_hours * co2_per_wh
-    miles_driven = total_CO2 / 0.77
+    #total_CO2 = watt_hours * co2_per_wh
+    #miles_driven = total_CO2 / 0.77
 
     result = {}
+
+    result.update({
+        'watt-hours': watt_hours
+    })
 
     return result
 
