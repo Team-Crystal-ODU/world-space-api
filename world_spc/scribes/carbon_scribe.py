@@ -121,9 +121,9 @@ def get_carbon_readout(user, db):
     result.update({
         'start_time': str(start),
         'end_time': str(end),
-        'co2': total_co2,
-        'watt_hours': total_wH,
-        'miles_driven': total_co2 / 0.77,
+        'co2': round(total_co2, 2),
+        'watt_hours': round(total_wH, 2),
+        'miles_driven': round((total_co2 / 0.77), 2),
         'ppm': random.randint(300, 400),
         'chart_data': chart_data
     })
