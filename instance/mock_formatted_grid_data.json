@@ -1,0 +1,1892 @@
+{
+    "region": "mida",
+    "start_date": "2023-02-14T00:00:00",
+    "end_date": "2023-02-20T00:00:00",
+    "data": [
+        {
+            "timestamp": "2023-02-14T00:00:00",
+            "megawatts": {
+                "Wind": 6308,
+                "Solar": 3,
+                "Hydro": 599,
+                "Other": 536,
+                "Petroleum": 200,
+                "Natural gas": 37528,
+                "Coal": 11845,
+                "Nuclear": 32050
+            }
+        },
+        {
+            "timestamp": "2023-02-14T01:00:00",
+            "megawatts": {
+                "Wind": 4094,
+                "Solar": 0,
+                "Hydro": 670,
+                "Other": 754,
+                "Petroleum": 203,
+                "Natural gas": 37970,
+                "Coal": 11477,
+                "Nuclear": 31860
+            }
+        },
+        {
+            "timestamp": "2023-02-14T02:00:00",
+            "megawatts": {
+                "Wind": 5138,
+                "Solar": 0,
+                "Hydro": 638,
+                "Other": 750,
+                "Petroleum": 203,
+                "Natural gas": 37905,
+                "Coal": 11423,
+                "Nuclear": 31859
+            }
+        },
+        {
+            "timestamp": "2023-02-14T03:00:00",
+            "megawatts": {
+                "Wind": 5525,
+                "Solar": 0,
+                "Hydro": 679,
+                "Other": 748,
+                "Petroleum": 204,
+                "Natural gas": 37031,
+                "Coal": 11528,
+                "Nuclear": 31870
+            }
+        },
+        {
+            "timestamp": "2023-02-14T04:00:00",
+            "megawatts": {
+                "Wind": 5992,
+                "Solar": 0,
+                "Hydro": 751,
+                "Other": 758,
+                "Petroleum": 219,
+                "Natural gas": 37571,
+                "Coal": 11645,
+                "Nuclear": 31876
+            }
+        },
+        {
+            "timestamp": "2023-02-14T05:00:00",
+            "megawatts": {
+                "Wind": 6494,
+                "Solar": 0,
+                "Hydro": 2340,
+                "Other": 935,
+                "Petroleum": 434,
+                "Natural gas": 38814,
+                "Coal": 11950,
+                "Nuclear": 31890
+            }
+        },
+        {
+            "timestamp": "2023-02-14T06:00:00",
+            "megawatts": {
+                "Wind": 6794,
+                "Solar": 0,
+                "Hydro": 4392,
+                "Other": 928,
+                "Petroleum": 431,
+                "Natural gas": 42759,
+                "Coal": 12469,
+                "Nuclear": 31887
+            }
+        },
+        {
+            "timestamp": "2023-02-14T07:00:00",
+            "megawatts": {
+                "Wind": 6961,
+                "Solar": 140,
+                "Hydro": 4469,
+                "Other": 940,
+                "Petroleum": 398,
+                "Natural gas": 45738,
+                "Coal": 14277,
+                "Nuclear": 31890
+            }
+        },
+        {
+            "timestamp": "2023-02-14T08:00:00",
+            "megawatts": {
+                "Wind": 7261,
+                "Solar": 1778,
+                "Hydro": 2362,
+                "Other": 1444,
+                "Petroleum": 355,
+                "Natural gas": 43856,
+                "Coal": 13492,
+                "Nuclear": 31893
+            }
+        },
+        {
+            "timestamp": "2023-02-14T09:00:00",
+            "megawatts": {
+                "Wind": 7372,
+                "Solar": 2821,
+                "Hydro": 2374,
+                "Other": 1498,
+                "Petroleum": 261,
+                "Natural gas": 38032,
+                "Coal": 13230,
+                "Nuclear": 31883
+            }
+        },
+        {
+            "timestamp": "2023-02-14T10:00:00",
+            "megawatts": {
+                "Wind": 7056,
+                "Solar": 3101,
+                "Hydro": 1333,
+                "Other": 1515,
+                "Petroleum": 201,
+                "Natural gas": 37098,
+                "Coal": 13244,
+                "Nuclear": 31891
+            }
+        },
+        {
+            "timestamp": "2023-02-14T11:00:00",
+            "megawatts": {
+                "Wind": 6644,
+                "Solar": 3095,
+                "Hydro": 1089,
+                "Other": 1348,
+                "Petroleum": 200,
+                "Natural gas": 36662,
+                "Coal": 13235,
+                "Nuclear": 31883
+            }
+        },
+        {
+            "timestamp": "2023-02-14T12:00:00",
+            "megawatts": {
+                "Wind": 6189,
+                "Solar": 2912,
+                "Hydro": 1108,
+                "Other": 1389,
+                "Petroleum": 196,
+                "Natural gas": 35850,
+                "Coal": 13145,
+                "Nuclear": 31855
+            }
+        },
+        {
+            "timestamp": "2023-02-14T13:00:00",
+            "megawatts": {
+                "Wind": 6310,
+                "Solar": 2851,
+                "Hydro": 1099,
+                "Other": 1416,
+                "Petroleum": 196,
+                "Natural gas": 34992,
+                "Coal": 13069,
+                "Nuclear": 31868
+            }
+        },
+        {
+            "timestamp": "2023-02-14T14:00:00",
+            "megawatts": {
+                "Wind": 6828,
+                "Solar": 2767,
+                "Hydro": 1108,
+                "Other": 950,
+                "Petroleum": 193,
+                "Natural gas": 35341,
+                "Coal": 12779,
+                "Nuclear": 31852
+            }
+        },
+        {
+            "timestamp": "2023-02-14T15:00:00",
+            "megawatts": {
+                "Wind": 7132,
+                "Solar": 2529,
+                "Hydro": 1110,
+                "Other": 907,
+                "Petroleum": 186,
+                "Natural gas": 36280,
+                "Coal": 12597,
+                "Nuclear": 31819
+            }
+        },
+        {
+            "timestamp": "2023-02-14T16:00:00",
+            "megawatts": {
+                "Wind": 7532,
+                "Solar": 1189,
+                "Hydro": 1349,
+                "Other": 956,
+                "Petroleum": 192,
+                "Natural gas": 36629,
+                "Coal": 12438,
+                "Nuclear": 31786
+            }
+        },
+        {
+            "timestamp": "2023-02-14T17:00:00",
+            "megawatts": {
+                "Wind": 7874,
+                "Solar": 81,
+                "Hydro": 2184,
+                "Other": 738,
+                "Petroleum": 190,
+                "Natural gas": 38404,
+                "Coal": 12593,
+                "Nuclear": 31795
+            }
+        },
+        {
+            "timestamp": "2023-02-14T18:00:00",
+            "megawatts": {
+                "Wind": 8013,
+                "Solar": 2,
+                "Hydro": 3118,
+                "Other": 732,
+                "Petroleum": 188,
+                "Natural gas": 41078,
+                "Coal": 13123,
+                "Nuclear": 31798
+            }
+        },
+        {
+            "timestamp": "2023-02-14T19:00:00",
+            "megawatts": {
+                "Wind": 8316,
+                "Solar": 1,
+                "Hydro": 2747,
+                "Other": 735,
+                "Petroleum": 188,
+                "Natural gas": 40734,
+                "Coal": 12721,
+                "Nuclear": 31794
+            }
+        },
+        {
+            "timestamp": "2023-02-14T20:00:00",
+            "megawatts": {
+                "Wind": 8623,
+                "Solar": 1,
+                "Hydro": 2044,
+                "Other": 739,
+                "Petroleum": 192,
+                "Natural gas": 40202,
+                "Coal": 12170,
+                "Nuclear": 31806
+            }
+        },
+        {
+            "timestamp": "2023-02-14T21:00:00",
+            "megawatts": {
+                "Wind": 9049,
+                "Solar": 1,
+                "Hydro": 1074,
+                "Other": 729,
+                "Petroleum": 192,
+                "Natural gas": 37816,
+                "Coal": 11957,
+                "Nuclear": 31813
+            }
+        },
+        {
+            "timestamp": "2023-02-14T22:00:00",
+            "megawatts": {
+                "Wind": 9180,
+                "Solar": 1,
+                "Hydro": 857,
+                "Other": 564,
+                "Petroleum": 180,
+                "Natural gas": 35406,
+                "Coal": 11648,
+                "Nuclear": 31845
+            }
+        },
+        {
+            "timestamp": "2023-02-14T23:00:00",
+            "megawatts": {
+                "Wind": 9277,
+                "Solar": 1,
+                "Hydro": 864,
+                "Other": 571,
+                "Petroleum": 159,
+                "Natural gas": 33476,
+                "Coal": 11063,
+                "Nuclear": 31848
+            }
+        },
+        {
+            "timestamp": "2023-02-15T00:00:00",
+            "megawatts": {
+                "Wind": 3698,
+                "Solar": 0,
+                "Hydro": 696,
+                "Other": 746,
+                "Petroleum": 200,
+                "Natural gas": 38459,
+                "Coal": 11687,
+                "Nuclear": 31863
+            }
+        },
+        {
+            "timestamp": "2023-02-15T01:00:00",
+            "megawatts": {
+                "Wind": 9297,
+                "Solar": 1,
+                "Hydro": 848,
+                "Other": 565,
+                "Petroleum": 161,
+                "Natural gas": 29896,
+                "Coal": 9872,
+                "Nuclear": 31848
+            }
+        },
+        {
+            "timestamp": "2023-02-15T02:00:00",
+            "megawatts": {
+                "Wind": 9219,
+                "Solar": 1,
+                "Hydro": 857,
+                "Other": 562,
+                "Petroleum": 170,
+                "Natural gas": 29774,
+                "Coal": 9644,
+                "Nuclear": 31851
+            }
+        },
+        {
+            "timestamp": "2023-02-15T03:00:00",
+            "megawatts": {
+                "Wind": 8852,
+                "Solar": 1,
+                "Hydro": 850,
+                "Other": 565,
+                "Petroleum": 167,
+                "Natural gas": 29794,
+                "Coal": 9626,
+                "Nuclear": 31824
+            }
+        },
+        {
+            "timestamp": "2023-02-15T04:00:00",
+            "megawatts": {
+                "Wind": 8936,
+                "Solar": 1,
+                "Hydro": 860,
+                "Other": 556,
+                "Petroleum": 173,
+                "Natural gas": 30569,
+                "Coal": 9630,
+                "Nuclear": 31839
+            }
+        },
+        {
+            "timestamp": "2023-02-15T05:00:00",
+            "megawatts": {
+                "Wind": 9063,
+                "Solar": 1,
+                "Hydro": 1070,
+                "Other": 510,
+                "Petroleum": 176,
+                "Natural gas": 30461,
+                "Coal": 9717,
+                "Nuclear": 31844
+            }
+        },
+        {
+            "timestamp": "2023-02-15T06:00:00",
+            "megawatts": {
+                "Wind": 8958,
+                "Solar": 1,
+                "Hydro": 3488,
+                "Other": 678,
+                "Petroleum": 182,
+                "Natural gas": 33499,
+                "Coal": 9866,
+                "Nuclear": 31834
+            }
+        },
+        {
+            "timestamp": "2023-02-15T07:00:00",
+            "megawatts": {
+                "Wind": 9158,
+                "Solar": 39,
+                "Hydro": 3381,
+                "Other": 680,
+                "Petroleum": 181,
+                "Natural gas": 36875,
+                "Coal": 10251,
+                "Nuclear": 31836
+            }
+        },
+        {
+            "timestamp": "2023-02-15T08:00:00",
+            "megawatts": {
+                "Wind": 9129,
+                "Solar": 594,
+                "Hydro": 3599,
+                "Other": 764,
+                "Petroleum": 193,
+                "Natural gas": 37473,
+                "Coal": 10488,
+                "Nuclear": 31841
+            }
+        },
+        {
+            "timestamp": "2023-02-15T09:00:00",
+            "megawatts": {
+                "Wind": 9132,
+                "Solar": 1321,
+                "Hydro": 1257,
+                "Other": 757,
+                "Petroleum": 187,
+                "Natural gas": 37114,
+                "Coal": 10559,
+                "Nuclear": 31827
+            }
+        },
+        {
+            "timestamp": "2023-02-15T10:00:00",
+            "megawatts": {
+                "Wind": 9153,
+                "Solar": 1618,
+                "Hydro": 1378,
+                "Other": 825,
+                "Petroleum": 190,
+                "Natural gas": 35395,
+                "Coal": 10543,
+                "Nuclear": 31812
+            }
+        },
+        {
+            "timestamp": "2023-02-15T11:00:00",
+            "megawatts": {
+                "Wind": 9101,
+                "Solar": 2062,
+                "Hydro": 999,
+                "Other": 815,
+                "Petroleum": 189,
+                "Natural gas": 34991,
+                "Coal": 10390,
+                "Nuclear": 31781
+            }
+        },
+        {
+            "timestamp": "2023-02-15T12:00:00",
+            "megawatts": {
+                "Wind": 8995,
+                "Solar": 2390,
+                "Hydro": 1030,
+                "Other": 720,
+                "Petroleum": 186,
+                "Natural gas": 33598,
+                "Coal": 10162,
+                "Nuclear": 31761
+            }
+        },
+        {
+            "timestamp": "2023-02-15T13:00:00",
+            "megawatts": {
+                "Wind": 8986,
+                "Solar": 2557,
+                "Hydro": 987,
+                "Other": 728,
+                "Petroleum": 184,
+                "Natural gas": 34118,
+                "Coal": 10000,
+                "Nuclear": 31736
+            }
+        },
+        {
+            "timestamp": "2023-02-15T14:00:00",
+            "megawatts": {
+                "Wind": 8508,
+                "Solar": 2360,
+                "Hydro": 958,
+                "Other": 749,
+                "Petroleum": 199,
+                "Natural gas": 33664,
+                "Coal": 9861,
+                "Nuclear": 31743
+            }
+        },
+        {
+            "timestamp": "2023-02-15T15:00:00",
+            "megawatts": {
+                "Wind": 7685,
+                "Solar": 2318,
+                "Hydro": 1200,
+                "Other": 685,
+                "Petroleum": 237,
+                "Natural gas": 35175,
+                "Coal": 9923,
+                "Nuclear": 31716
+            }
+        },
+        {
+            "timestamp": "2023-02-15T16:00:00",
+            "megawatts": {
+                "Wind": 6569,
+                "Solar": 1385,
+                "Hydro": 1413,
+                "Other": 768,
+                "Petroleum": 411,
+                "Natural gas": 35702,
+                "Coal": 9962,
+                "Nuclear": 31714
+            }
+        },
+        {
+            "timestamp": "2023-02-15T17:00:00",
+            "megawatts": {
+                "Wind": 5052,
+                "Solar": 179,
+                "Hydro": 3179,
+                "Other": 678,
+                "Petroleum": 413,
+                "Natural gas": 37696,
+                "Coal": 10318,
+                "Nuclear": 31700
+            }
+        },
+        {
+            "timestamp": "2023-02-15T18:00:00",
+            "megawatts": {
+                "Wind": 3995,
+                "Solar": 0,
+                "Hydro": 5217,
+                "Other": 664,
+                "Petroleum": 411,
+                "Natural gas": 39567,
+                "Coal": 10669,
+                "Nuclear": 31726
+            }
+        },
+        {
+            "timestamp": "2023-02-15T19:00:00",
+            "megawatts": {
+                "Wind": 3641,
+                "Solar": 0,
+                "Hydro": 4807,
+                "Other": 667,
+                "Petroleum": 371,
+                "Natural gas": 39459,
+                "Coal": 11388,
+                "Nuclear": 31725
+            }
+        },
+        {
+            "timestamp": "2023-02-15T20:00:00",
+            "megawatts": {
+                "Wind": 3433,
+                "Solar": 0,
+                "Hydro": 3510,
+                "Other": 678,
+                "Petroleum": 345,
+                "Natural gas": 39181,
+                "Coal": 11477,
+                "Nuclear": 31715
+            }
+        },
+        {
+            "timestamp": "2023-02-15T21:00:00",
+            "megawatts": {
+                "Wind": 3269,
+                "Solar": 0,
+                "Hydro": 2069,
+                "Other": 655,
+                "Petroleum": 386,
+                "Natural gas": 38972,
+                "Coal": 11234,
+                "Nuclear": 31717
+            }
+        },
+        {
+            "timestamp": "2023-02-15T22:00:00",
+            "megawatts": {
+                "Wind": 3535,
+                "Solar": 0,
+                "Hydro": 956,
+                "Other": 538,
+                "Petroleum": 220,
+                "Natural gas": 36702,
+                "Coal": 10591,
+                "Nuclear": 31729
+            }
+        },
+        {
+            "timestamp": "2023-02-15T23:00:00",
+            "megawatts": {
+                "Wind": 3605,
+                "Solar": 0,
+                "Hydro": 881,
+                "Other": 533,
+                "Petroleum": 221,
+                "Natural gas": 34422,
+                "Coal": 10174,
+                "Nuclear": 31745
+            }
+        },
+        {
+            "timestamp": "2023-02-16T00:00:00",
+            "megawatts": {
+                "Wind": 9434,
+                "Solar": 1,
+                "Hydro": 805,
+                "Other": 580,
+                "Petroleum": 274,
+                "Natural gas": 30650,
+                "Coal": 10348,
+                "Nuclear": 31846
+            }
+        },
+        {
+            "timestamp": "2023-02-16T01:00:00",
+            "megawatts": {
+                "Wind": 3552,
+                "Solar": 0,
+                "Hydro": 803,
+                "Other": 521,
+                "Petroleum": 198,
+                "Natural gas": 32699,
+                "Coal": 9586,
+                "Nuclear": 31775
+            }
+        },
+        {
+            "timestamp": "2023-02-16T02:00:00",
+            "megawatts": {
+                "Wind": 3597,
+                "Solar": 0,
+                "Hydro": 797,
+                "Other": 527,
+                "Petroleum": 199,
+                "Natural gas": 32558,
+                "Coal": 9515,
+                "Nuclear": 31777
+            }
+        },
+        {
+            "timestamp": "2023-02-16T03:00:00",
+            "megawatts": {
+                "Wind": 3916,
+                "Solar": 2,
+                "Hydro": 816,
+                "Other": 529,
+                "Petroleum": 200,
+                "Natural gas": 32741,
+                "Coal": 9561,
+                "Nuclear": 31797
+            }
+        },
+        {
+            "timestamp": "2023-02-16T04:00:00",
+            "megawatts": {
+                "Wind": 4679,
+                "Solar": 0,
+                "Hydro": 949,
+                "Other": 531,
+                "Petroleum": 200,
+                "Natural gas": 32989,
+                "Coal": 9565,
+                "Nuclear": 31770
+            }
+        },
+        {
+            "timestamp": "2023-02-16T05:00:00",
+            "megawatts": {
+                "Wind": 5542,
+                "Solar": 0,
+                "Hydro": 943,
+                "Other": 531,
+                "Petroleum": 215,
+                "Natural gas": 33792,
+                "Coal": 9692,
+                "Nuclear": 31778
+            }
+        },
+        {
+            "timestamp": "2023-02-16T06:00:00",
+            "megawatts": {
+                "Wind": 4882,
+                "Solar": 0,
+                "Hydro": 3424,
+                "Other": 706,
+                "Petroleum": 399,
+                "Natural gas": 36801,
+                "Coal": 9896,
+                "Nuclear": 31780
+            }
+        },
+        {
+            "timestamp": "2023-02-16T07:00:00",
+            "megawatts": {
+                "Wind": 5503,
+                "Solar": 85,
+                "Hydro": 3478,
+                "Other": 758,
+                "Petroleum": 416,
+                "Natural gas": 40765,
+                "Coal": 10428,
+                "Nuclear": 31779
+            }
+        },
+        {
+            "timestamp": "2023-02-16T08:00:00",
+            "megawatts": {
+                "Wind": 6352,
+                "Solar": 591,
+                "Hydro": 3250,
+                "Other": 1125,
+                "Petroleum": 381,
+                "Natural gas": 40136,
+                "Coal": 10208,
+                "Nuclear": 31794
+            }
+        },
+        {
+            "timestamp": "2023-02-16T09:00:00",
+            "megawatts": {
+                "Wind": 6072,
+                "Solar": 1173,
+                "Hydro": 2281,
+                "Other": 1166,
+                "Petroleum": 400,
+                "Natural gas": 40542,
+                "Coal": 10120,
+                "Nuclear": 31773
+            }
+        },
+        {
+            "timestamp": "2023-02-16T10:00:00",
+            "megawatts": {
+                "Wind": 5186,
+                "Solar": 1585,
+                "Hydro": 1382,
+                "Other": 1222,
+                "Petroleum": 344,
+                "Natural gas": 41047,
+                "Coal": 10748,
+                "Nuclear": 31789
+            }
+        },
+        {
+            "timestamp": "2023-02-16T11:00:00",
+            "megawatts": {
+                "Wind": 5017,
+                "Solar": 1577,
+                "Hydro": 1087,
+                "Other": 1023,
+                "Petroleum": 415,
+                "Natural gas": 41445,
+                "Coal": 11093,
+                "Nuclear": 31771
+            }
+        },
+        {
+            "timestamp": "2023-02-16T12:00:00",
+            "megawatts": {
+                "Wind": 4618,
+                "Solar": 1500,
+                "Hydro": 1568,
+                "Other": 1032,
+                "Petroleum": 497,
+                "Natural gas": 41220,
+                "Coal": 10724,
+                "Nuclear": 31754
+            }
+        },
+        {
+            "timestamp": "2023-02-16T13:00:00",
+            "megawatts": {
+                "Wind": 4419,
+                "Solar": 1397,
+                "Hydro": 1515,
+                "Other": 956,
+                "Petroleum": 377,
+                "Natural gas": 42090,
+                "Coal": 11104,
+                "Nuclear": 31763
+            }
+        },
+        {
+            "timestamp": "2023-02-16T14:00:00",
+            "megawatts": {
+                "Wind": 4638,
+                "Solar": 1120,
+                "Hydro": 1117,
+                "Other": 975,
+                "Petroleum": 432,
+                "Natural gas": 41694,
+                "Coal": 10536,
+                "Nuclear": 31750
+            }
+        },
+        {
+            "timestamp": "2023-02-16T15:00:00",
+            "megawatts": {
+                "Wind": 3640,
+                "Solar": 1047,
+                "Hydro": 1287,
+                "Other": 995,
+                "Petroleum": 338,
+                "Natural gas": 41904,
+                "Coal": 10538,
+                "Nuclear": 31745
+            }
+        },
+        {
+            "timestamp": "2023-02-16T16:00:00",
+            "megawatts": {
+                "Wind": 4084,
+                "Solar": 602,
+                "Hydro": 1783,
+                "Other": 951,
+                "Petroleum": 330,
+                "Natural gas": 41316,
+                "Coal": 10122,
+                "Nuclear": 31750
+            }
+        },
+        {
+            "timestamp": "2023-02-16T17:00:00",
+            "megawatts": {
+                "Wind": 4620,
+                "Solar": 64,
+                "Hydro": 2981,
+                "Other": 992,
+                "Petroleum": 420,
+                "Natural gas": 42620,
+                "Coal": 9864,
+                "Nuclear": 31729
+            }
+        },
+        {
+            "timestamp": "2023-02-16T18:00:00",
+            "megawatts": {
+                "Wind": 5295,
+                "Solar": 0,
+                "Hydro": 3725,
+                "Other": 1024,
+                "Petroleum": 417,
+                "Natural gas": 43128,
+                "Coal": 10251,
+                "Nuclear": 31712
+            }
+        },
+        {
+            "timestamp": "2023-02-16T19:00:00",
+            "megawatts": {
+                "Wind": 6005,
+                "Solar": 0,
+                "Hydro": 2753,
+                "Other": 1011,
+                "Petroleum": 350,
+                "Natural gas": 42759,
+                "Coal": 10381,
+                "Nuclear": 31726
+            }
+        },
+        {
+            "timestamp": "2023-02-16T20:00:00",
+            "megawatts": {
+                "Wind": 6388,
+                "Solar": 0,
+                "Hydro": 1810,
+                "Other": 1014,
+                "Petroleum": 191,
+                "Natural gas": 42178,
+                "Coal": 10284,
+                "Nuclear": 31716
+            }
+        },
+        {
+            "timestamp": "2023-02-16T21:00:00",
+            "megawatts": {
+                "Wind": 6807,
+                "Solar": 0,
+                "Hydro": 1404,
+                "Other": 990,
+                "Petroleum": 187,
+                "Natural gas": 39711,
+                "Coal": 10024,
+                "Nuclear": 31724
+            }
+        },
+        {
+            "timestamp": "2023-02-16T22:00:00",
+            "megawatts": {
+                "Wind": 7165,
+                "Solar": 0,
+                "Hydro": 1029,
+                "Other": 1008,
+                "Petroleum": 189,
+                "Natural gas": 37632,
+                "Coal": 9560,
+                "Nuclear": 31698
+            }
+        },
+        {
+            "timestamp": "2023-02-16T23:00:00",
+            "megawatts": {
+                "Wind": 7193,
+                "Solar": 0,
+                "Hydro": 1000,
+                "Other": 854,
+                "Petroleum": 190,
+                "Natural gas": 35385,
+                "Coal": 9238,
+                "Nuclear": 31723
+            }
+        },
+        {
+            "timestamp": "2023-02-17T00:00:00",
+            "megawatts": {
+                "Wind": 3364,
+                "Solar": 0,
+                "Hydro": 796,
+                "Other": 542,
+                "Petroleum": 200,
+                "Natural gas": 34493,
+                "Coal": 9841,
+                "Nuclear": 31757
+            }
+        },
+        {
+            "timestamp": "2023-02-17T01:00:00",
+            "megawatts": {
+                "Wind": 7367,
+                "Solar": 0,
+                "Hydro": 777,
+                "Other": 852,
+                "Petroleum": 192,
+                "Natural gas": 33497,
+                "Coal": 8730,
+                "Nuclear": 31733
+            }
+        },
+        {
+            "timestamp": "2023-02-17T02:00:00",
+            "megawatts": {
+                "Wind": 6766,
+                "Solar": 0,
+                "Hydro": 776,
+                "Other": 863,
+                "Petroleum": 193,
+                "Natural gas": 33619,
+                "Coal": 8737,
+                "Nuclear": 31723
+            }
+        },
+        {
+            "timestamp": "2023-02-17T03:00:00",
+            "megawatts": {
+                "Wind": 6500,
+                "Solar": 0,
+                "Hydro": 759,
+                "Other": 858,
+                "Petroleum": 197,
+                "Natural gas": 33708,
+                "Coal": 8765,
+                "Nuclear": 31738
+            }
+        },
+        {
+            "timestamp": "2023-02-17T04:00:00",
+            "megawatts": {
+                "Wind": 6420,
+                "Solar": 0,
+                "Hydro": 767,
+                "Other": 864,
+                "Petroleum": 200,
+                "Natural gas": 34600,
+                "Coal": 8755,
+                "Nuclear": 31753
+            }
+        },
+        {
+            "timestamp": "2023-02-17T05:00:00",
+            "megawatts": {
+                "Wind": 5654,
+                "Solar": 0,
+                "Hydro": 878,
+                "Other": 858,
+                "Petroleum": 214,
+                "Natural gas": 36633,
+                "Coal": 9190,
+                "Nuclear": 31762
+            }
+        },
+        {
+            "timestamp": "2023-02-17T06:00:00",
+            "megawatts": {
+                "Wind": 5002,
+                "Solar": 0,
+                "Hydro": 1828,
+                "Other": 1016,
+                "Petroleum": 392,
+                "Natural gas": 39308,
+                "Coal": 9887,
+                "Nuclear": 31736
+            }
+        },
+        {
+            "timestamp": "2023-02-17T07:00:00",
+            "megawatts": {
+                "Wind": 5262,
+                "Solar": 8,
+                "Hydro": 2725,
+                "Other": 1001,
+                "Petroleum": 398,
+                "Natural gas": 42194,
+                "Coal": 10380,
+                "Nuclear": 31734
+            }
+        },
+        {
+            "timestamp": "2023-02-17T08:00:00",
+            "megawatts": {
+                "Wind": 5770,
+                "Solar": 95,
+                "Hydro": 2872,
+                "Other": 1014,
+                "Petroleum": 379,
+                "Natural gas": 42890,
+                "Coal": 11259,
+                "Nuclear": 31755
+            }
+        },
+        {
+            "timestamp": "2023-02-17T09:00:00",
+            "megawatts": {
+                "Wind": 5179,
+                "Solar": 158,
+                "Hydro": 2829,
+                "Other": 973,
+                "Petroleum": 425,
+                "Natural gas": 45183,
+                "Coal": 11859,
+                "Nuclear": 31735
+            }
+        },
+        {
+            "timestamp": "2023-02-17T10:00:00",
+            "megawatts": {
+                "Wind": 4619,
+                "Solar": 332,
+                "Hydro": 1935,
+                "Other": 977,
+                "Petroleum": 425,
+                "Natural gas": 45990,
+                "Coal": 11379,
+                "Nuclear": 31736
+            }
+        },
+        {
+            "timestamp": "2023-02-17T11:00:00",
+            "megawatts": {
+                "Wind": 4189,
+                "Solar": 641,
+                "Hydro": 1311,
+                "Other": 971,
+                "Petroleum": 351,
+                "Natural gas": 47300,
+                "Coal": 11456,
+                "Nuclear": 31738
+            }
+        },
+        {
+            "timestamp": "2023-02-17T12:00:00",
+            "megawatts": {
+                "Wind": 4432,
+                "Solar": 659,
+                "Hydro": 942,
+                "Other": 1039,
+                "Petroleum": 333,
+                "Natural gas": 46708,
+                "Coal": 11374,
+                "Nuclear": 31759
+            }
+        },
+        {
+            "timestamp": "2023-02-17T13:00:00",
+            "megawatts": {
+                "Wind": 4570,
+                "Solar": 703,
+                "Hydro": 935,
+                "Other": 1011,
+                "Petroleum": 346,
+                "Natural gas": 46012,
+                "Coal": 10992,
+                "Nuclear": 31787
+            }
+        },
+        {
+            "timestamp": "2023-02-17T14:00:00",
+            "megawatts": {
+                "Wind": 4752,
+                "Solar": 471,
+                "Hydro": 932,
+                "Other": 1087,
+                "Petroleum": 332,
+                "Natural gas": 45294,
+                "Coal": 10600,
+                "Nuclear": 31786
+            }
+        },
+        {
+            "timestamp": "2023-02-17T15:00:00",
+            "megawatts": {
+                "Wind": 4492,
+                "Solar": 457,
+                "Hydro": 1239,
+                "Other": 1038,
+                "Petroleum": 396,
+                "Natural gas": 45515,
+                "Coal": 10682,
+                "Nuclear": 31781
+            }
+        },
+        {
+            "timestamp": "2023-02-17T16:00:00",
+            "megawatts": {
+                "Wind": 4023,
+                "Solar": 334,
+                "Hydro": 1835,
+                "Other": 1089,
+                "Petroleum": 424,
+                "Natural gas": 45287,
+                "Coal": 10726,
+                "Nuclear": 31787
+            }
+        },
+        {
+            "timestamp": "2023-02-17T17:00:00",
+            "megawatts": {
+                "Wind": 3884,
+                "Solar": 57,
+                "Hydro": 2813,
+                "Other": 1303,
+                "Petroleum": 427,
+                "Natural gas": 46538,
+                "Coal": 10729,
+                "Nuclear": 31798
+            }
+        },
+        {
+            "timestamp": "2023-02-17T18:00:00",
+            "megawatts": {
+                "Wind": 3626,
+                "Solar": 0,
+                "Hydro": 4592,
+                "Other": 1304,
+                "Petroleum": 432,
+                "Natural gas": 47409,
+                "Coal": 11287,
+                "Nuclear": 31798
+            }
+        },
+        {
+            "timestamp": "2023-02-17T19:00:00",
+            "megawatts": {
+                "Wind": 3301,
+                "Solar": 0,
+                "Hydro": 4481,
+                "Other": 1325,
+                "Petroleum": 436,
+                "Natural gas": 47634,
+                "Coal": 11780,
+                "Nuclear": 31796
+            }
+        },
+        {
+            "timestamp": "2023-02-17T20:00:00",
+            "megawatts": {
+                "Wind": 3385,
+                "Solar": 0,
+                "Hydro": 4328,
+                "Other": 1117,
+                "Petroleum": 434,
+                "Natural gas": 47661,
+                "Coal": 12124,
+                "Nuclear": 31801
+            }
+        },
+        {
+            "timestamp": "2023-02-17T21:00:00",
+            "megawatts": {
+                "Wind": 4097,
+                "Solar": 0,
+                "Hydro": 2466,
+                "Other": 1203,
+                "Petroleum": 368,
+                "Natural gas": 47057,
+                "Coal": 12180,
+                "Nuclear": 31813
+            }
+        },
+        {
+            "timestamp": "2023-02-17T22:00:00",
+            "megawatts": {
+                "Wind": 5136,
+                "Solar": 0,
+                "Hydro": 1472,
+                "Other": 1078,
+                "Petroleum": 323,
+                "Natural gas": 45971,
+                "Coal": 11594,
+                "Nuclear": 31526
+            }
+        },
+        {
+            "timestamp": "2023-02-17T23:00:00",
+            "megawatts": {
+                "Wind": 6072,
+                "Solar": 0,
+                "Hydro": 892,
+                "Other": 970,
+                "Petroleum": 225,
+                "Natural gas": 44768,
+                "Coal": 11127,
+                "Nuclear": 31574
+            }
+        },
+        {
+            "timestamp": "2023-02-18T00:00:00",
+            "megawatts": {
+                "Wind": 7193,
+                "Solar": 0,
+                "Hydro": 801,
+                "Other": 868,
+                "Petroleum": 191,
+                "Natural gas": 34112,
+                "Coal": 8790,
+                "Nuclear": 31726
+            }
+        },
+        {
+            "timestamp": "2023-02-18T01:00:00",
+            "megawatts": {
+                "Wind": 7797,
+                "Solar": 0,
+                "Hydro": 712,
+                "Other": 932,
+                "Petroleum": 184,
+                "Natural gas": 41025,
+                "Coal": 10686,
+                "Nuclear": 31598
+            }
+        },
+        {
+            "timestamp": "2023-02-18T02:00:00",
+            "megawatts": {
+                "Wind": 7985,
+                "Solar": 0,
+                "Hydro": 764,
+                "Other": 926,
+                "Petroleum": 187,
+                "Natural gas": 41574,
+                "Coal": 10544,
+                "Nuclear": 31614
+            }
+        },
+        {
+            "timestamp": "2023-02-18T03:00:00",
+            "megawatts": {
+                "Wind": 8232,
+                "Solar": 0,
+                "Hydro": 711,
+                "Other": 891,
+                "Petroleum": 188,
+                "Natural gas": 41235,
+                "Coal": 10561,
+                "Nuclear": 31640
+            }
+        },
+        {
+            "timestamp": "2023-02-18T04:00:00",
+            "megawatts": {
+                "Wind": 8384,
+                "Solar": 0,
+                "Hydro": 1637,
+                "Other": 927,
+                "Petroleum": 205,
+                "Natural gas": 41702,
+                "Coal": 10558,
+                "Nuclear": 31643
+            }
+        },
+        {
+            "timestamp": "2023-02-18T05:00:00",
+            "megawatts": {
+                "Wind": 8327,
+                "Solar": 0,
+                "Hydro": 1785,
+                "Other": 923,
+                "Petroleum": 338,
+                "Natural gas": 42050,
+                "Coal": 10849,
+                "Nuclear": 31655
+            }
+        },
+        {
+            "timestamp": "2023-02-18T06:00:00",
+            "megawatts": {
+                "Wind": 8335,
+                "Solar": 0,
+                "Hydro": 2942,
+                "Other": 936,
+                "Petroleum": 355,
+                "Natural gas": 42532,
+                "Coal": 11449,
+                "Nuclear": 31679
+            }
+        },
+        {
+            "timestamp": "2023-02-18T07:00:00",
+            "megawatts": {
+                "Wind": 8244,
+                "Solar": 209,
+                "Hydro": 4243,
+                "Other": 959,
+                "Petroleum": 401,
+                "Natural gas": 42733,
+                "Coal": 12690,
+                "Nuclear": 31704
+            }
+        },
+        {
+            "timestamp": "2023-02-18T08:00:00",
+            "megawatts": {
+                "Wind": 8119,
+                "Solar": 2142,
+                "Hydro": 3429,
+                "Other": 1424,
+                "Petroleum": 338,
+                "Natural gas": 41204,
+                "Coal": 12207,
+                "Nuclear": 31714
+            }
+        },
+        {
+            "timestamp": "2023-02-18T09:00:00",
+            "megawatts": {
+                "Wind": 8090,
+                "Solar": 3468,
+                "Hydro": 2419,
+                "Other": 1532,
+                "Petroleum": 378,
+                "Natural gas": 39584,
+                "Coal": 11724,
+                "Nuclear": 31720
+            }
+        },
+        {
+            "timestamp": "2023-02-18T10:00:00",
+            "megawatts": {
+                "Wind": 7406,
+                "Solar": 3660,
+                "Hydro": 891,
+                "Other": 1526,
+                "Petroleum": 336,
+                "Natural gas": 40414,
+                "Coal": 11302,
+                "Nuclear": 31737
+            }
+        },
+        {
+            "timestamp": "2023-02-18T11:00:00",
+            "megawatts": {
+                "Wind": 7014,
+                "Solar": 3613,
+                "Hydro": 813,
+                "Other": 1499,
+                "Petroleum": 191,
+                "Natural gas": 39898,
+                "Coal": 11199,
+                "Nuclear": 31736
+            }
+        },
+        {
+            "timestamp": "2023-02-18T12:00:00",
+            "megawatts": {
+                "Wind": 6419,
+                "Solar": 3520,
+                "Hydro": 783,
+                "Other": 1558,
+                "Petroleum": 190,
+                "Natural gas": 38401,
+                "Coal": 10995,
+                "Nuclear": 31727
+            }
+        },
+        {
+            "timestamp": "2023-02-18T13:00:00",
+            "megawatts": {
+                "Wind": 6395,
+                "Solar": 3511,
+                "Hydro": 781,
+                "Other": 1508,
+                "Petroleum": 191,
+                "Natural gas": 35267,
+                "Coal": 10621,
+                "Nuclear": 31729
+            }
+        },
+        {
+            "timestamp": "2023-02-18T14:00:00",
+            "megawatts": {
+                "Wind": 6634,
+                "Solar": 3533,
+                "Hydro": 760,
+                "Other": 1573,
+                "Petroleum": 189,
+                "Natural gas": 33367,
+                "Coal": 10425,
+                "Nuclear": 31729
+            }
+        },
+        {
+            "timestamp": "2023-02-18T15:00:00",
+            "megawatts": {
+                "Wind": 6839,
+                "Solar": 3146,
+                "Hydro": 780,
+                "Other": 1569,
+                "Petroleum": 182,
+                "Natural gas": 32555,
+                "Coal": 10447,
+                "Nuclear": 31716
+            }
+        },
+        {
+            "timestamp": "2023-02-18T16:00:00",
+            "megawatts": {
+                "Wind": 6478,
+                "Solar": 2103,
+                "Hydro": 1351,
+                "Other": 1510,
+                "Petroleum": 190,
+                "Natural gas": 34658,
+                "Coal": 10586,
+                "Nuclear": 31708
+            }
+        },
+        {
+            "timestamp": "2023-02-18T17:00:00",
+            "megawatts": {
+                "Wind": 6413,
+                "Solar": 355,
+                "Hydro": 1808,
+                "Other": 1301,
+                "Petroleum": 188,
+                "Natural gas": 37336,
+                "Coal": 11257,
+                "Nuclear": 31706
+            }
+        },
+        {
+            "timestamp": "2023-02-18T18:00:00",
+            "megawatts": {
+                "Wind": 7219,
+                "Solar": 0,
+                "Hydro": 4162,
+                "Other": 1337,
+                "Petroleum": 208,
+                "Natural gas": 39876,
+                "Coal": 11284,
+                "Nuclear": 31704
+            }
+        },
+        {
+            "timestamp": "2023-02-18T19:00:00",
+            "megawatts": {
+                "Wind": 7846,
+                "Solar": 0,
+                "Hydro": 3177,
+                "Other": 1338,
+                "Petroleum": 209,
+                "Natural gas": 41643,
+                "Coal": 11434,
+                "Nuclear": 31717
+            }
+        },
+        {
+            "timestamp": "2023-02-18T20:00:00",
+            "megawatts": {
+                "Wind": 8198,
+                "Solar": 0,
+                "Hydro": 2266,
+                "Other": 1331,
+                "Petroleum": 214,
+                "Natural gas": 41104,
+                "Coal": 11406,
+                "Nuclear": 31740
+            }
+        },
+        {
+            "timestamp": "2023-02-18T21:00:00",
+            "megawatts": {
+                "Wind": 8062,
+                "Solar": 0,
+                "Hydro": 1384,
+                "Other": 1329,
+                "Petroleum": 216,
+                "Natural gas": 40477,
+                "Coal": 11374,
+                "Nuclear": 31758
+            }
+        },
+        {
+            "timestamp": "2023-02-18T22:00:00",
+            "megawatts": {
+                "Wind": 8094,
+                "Solar": 1,
+                "Hydro": 813,
+                "Other": 1328,
+                "Petroleum": 220,
+                "Natural gas": 39903,
+                "Coal": 11376,
+                "Nuclear": 31766
+            }
+        },
+        {
+            "timestamp": "2023-02-18T23:00:00",
+            "megawatts": {
+                "Wind": 7770,
+                "Solar": 0,
+                "Hydro": 801,
+                "Other": 1327,
+                "Petroleum": 216,
+                "Natural gas": 39094,
+                "Coal": 11217,
+                "Nuclear": 31794
+            }
+        },
+        {
+            "timestamp": "2023-02-19T00:00:00",
+            "megawatts": {
+                "Wind": 7101,
+                "Solar": 0,
+                "Hydro": 1064,
+                "Other": 942,
+                "Petroleum": 184,
+                "Natural gas": 40876,
+                "Coal": 10784,
+                "Nuclear": 31566
+            }
+        },
+        {
+            "timestamp": "2023-02-19T01:00:00",
+            "megawatts": {
+                "Wind": 7236,
+                "Solar": 0,
+                "Hydro": 667,
+                "Other": 1152,
+                "Petroleum": 227,
+                "Natural gas": 38594,
+                "Coal": 10723,
+                "Nuclear": 31797
+            }
+        },
+        {
+            "timestamp": "2023-02-19T02:00:00",
+            "megawatts": {
+                "Wind": 7386,
+                "Solar": 0,
+                "Hydro": 622,
+                "Other": 1176,
+                "Petroleum": 233,
+                "Natural gas": 37579,
+                "Coal": 10591,
+                "Nuclear": 31777
+            }
+        },
+        {
+            "timestamp": "2023-02-19T03:00:00",
+            "megawatts": {
+                "Wind": 7397,
+                "Solar": 0,
+                "Hydro": 584,
+                "Other": 1209,
+                "Petroleum": 235,
+                "Natural gas": 36642,
+                "Coal": 10659,
+                "Nuclear": 31809
+            }
+        },
+        {
+            "timestamp": "2023-02-19T04:00:00",
+            "megawatts": {
+                "Wind": 7286,
+                "Solar": 0,
+                "Hydro": 653,
+                "Other": 1242,
+                "Petroleum": 236,
+                "Natural gas": 36093,
+                "Coal": 10937,
+                "Nuclear": 31802
+            }
+        },
+        {
+            "timestamp": "2023-02-19T05:00:00",
+            "megawatts": {
+                "Wind": 7543,
+                "Solar": 0,
+                "Hydro": 869,
+                "Other": 1354,
+                "Petroleum": 239,
+                "Natural gas": 35429,
+                "Coal": 11007,
+                "Nuclear": 31792
+            }
+        },
+        {
+            "timestamp": "2023-02-19T06:00:00",
+            "megawatts": {
+                "Wind": 7680,
+                "Solar": 0,
+                "Hydro": 1154,
+                "Other": 1391,
+                "Petroleum": 236,
+                "Natural gas": 36111,
+                "Coal": 11142,
+                "Nuclear": 31805
+            }
+        },
+        {
+            "timestamp": "2023-02-19T07:00:00",
+            "megawatts": {
+                "Wind": 8017,
+                "Solar": 86,
+                "Hydro": 1443,
+                "Other": 1386,
+                "Petroleum": 236,
+                "Natural gas": 37125,
+                "Coal": 11019,
+                "Nuclear": 31786
+            }
+        },
+        {
+            "timestamp": "2023-02-19T08:00:00",
+            "megawatts": {
+                "Wind": 8014,
+                "Solar": 901,
+                "Hydro": 1736,
+                "Other": 1379,
+                "Petroleum": 236,
+                "Natural gas": 36990,
+                "Coal": 11087,
+                "Nuclear": 31799
+            }
+        },
+        {
+            "timestamp": "2023-02-19T09:00:00",
+            "megawatts": {
+                "Wind": 8393,
+                "Solar": 2589,
+                "Hydro": 1228,
+                "Other": 1400,
+                "Petroleum": 236,
+                "Natural gas": 34688,
+                "Coal": 11084,
+                "Nuclear": 31779
+            }
+        },
+        {
+            "timestamp": "2023-02-19T10:00:00",
+            "megawatts": {
+                "Wind": 8657,
+                "Solar": 2704,
+                "Hydro": 900,
+                "Other": 1502,
+                "Petroleum": 235,
+                "Natural gas": 33449,
+                "Coal": 10895,
+                "Nuclear": 31763
+            }
+        },
+        {
+            "timestamp": "2023-02-19T11:00:00",
+            "megawatts": {
+                "Wind": 8595,
+                "Solar": 2673,
+                "Hydro": 859,
+                "Other": 1581,
+                "Petroleum": 234,
+                "Natural gas": 34083,
+                "Coal": 10703,
+                "Nuclear": 31755
+            }
+        },
+        {
+            "timestamp": "2023-02-19T12:00:00",
+            "megawatts": {
+                "Wind": 8197,
+                "Solar": 3114,
+                "Hydro": 804,
+                "Other": 1581,
+                "Petroleum": 229,
+                "Natural gas": 31868,
+                "Coal": 10615,
+                "Nuclear": 31737
+            }
+        },
+        {
+            "timestamp": "2023-02-19T13:00:00",
+            "megawatts": {
+                "Wind": 7793,
+                "Solar": 2978,
+                "Hydro": 819,
+                "Other": 1569,
+                "Petroleum": 229,
+                "Natural gas": 30378,
+                "Coal": 10550,
+                "Nuclear": 31723
+            }
+        },
+        {
+            "timestamp": "2023-02-19T14:00:00",
+            "megawatts": {
+                "Wind": 7508,
+                "Solar": 2757,
+                "Hydro": 804,
+                "Other": 1518,
+                "Petroleum": 230,
+                "Natural gas": 28990,
+                "Coal": 10501,
+                "Nuclear": 31733
+            }
+        },
+        {
+            "timestamp": "2023-02-19T15:00:00",
+            "megawatts": {
+                "Wind": 7274,
+                "Solar": 2080,
+                "Hydro": 804,
+                "Other": 1455,
+                "Petroleum": 225,
+                "Natural gas": 29826,
+                "Coal": 10488,
+                "Nuclear": 31728
+            }
+        },
+        {
+            "timestamp": "2023-02-19T16:00:00",
+            "megawatts": {
+                "Wind": 7224,
+                "Solar": 1286,
+                "Hydro": 1318,
+                "Other": 1388,
+                "Petroleum": 226,
+                "Natural gas": 30779,
+                "Coal": 10676,
+                "Nuclear": 31734
+            }
+        },
+        {
+            "timestamp": "2023-02-19T17:00:00",
+            "megawatts": {
+                "Wind": 6438,
+                "Solar": 229,
+                "Hydro": 2036,
+                "Other": 1340,
+                "Petroleum": 224,
+                "Natural gas": 33335,
+                "Coal": 11074,
+                "Nuclear": 31733
+            }
+        },
+        {
+            "timestamp": "2023-02-19T18:00:00",
+            "megawatts": {
+                "Wind": 5427,
+                "Solar": 0,
+                "Hydro": 3693,
+                "Other": 1347,
+                "Petroleum": 220,
+                "Natural gas": 37466,
+                "Coal": 11231,
+                "Nuclear": 31739
+            }
+        },
+        {
+            "timestamp": "2023-02-19T19:00:00",
+            "megawatts": {
+                "Wind": 5496,
+                "Solar": 0,
+                "Hydro": 2892,
+                "Other": 1345,
+                "Petroleum": 221,
+                "Natural gas": 39790,
+                "Coal": 11224,
+                "Nuclear": 31756
+            }
+        },
+        {
+            "timestamp": "2023-02-19T20:00:00",
+            "megawatts": {
+                "Wind": 5459,
+                "Solar": 0,
+                "Hydro": 2401,
+                "Other": 1028,
+                "Petroleum": 222,
+                "Natural gas": 39532,
+                "Coal": 11020,
+                "Nuclear": 31752
+            }
+        },
+        {
+            "timestamp": "2023-02-19T21:00:00",
+            "megawatts": {
+                "Wind": 5665,
+                "Solar": 0,
+                "Hydro": 1038,
+                "Other": 1020,
+                "Petroleum": 225,
+                "Natural gas": 40075,
+                "Coal": 10749,
+                "Nuclear": 31602
+            }
+        },
+        {
+            "timestamp": "2023-02-19T22:00:00",
+            "megawatts": {
+                "Wind": 5532,
+                "Solar": 0,
+                "Hydro": 786,
+                "Other": 1036,
+                "Petroleum": 226,
+                "Natural gas": 37683,
+                "Coal": 10565,
+                "Nuclear": 31394
+            }
+        },
+        {
+            "timestamp": "2023-02-19T23:00:00",
+            "megawatts": {
+                "Wind": 4637,
+                "Solar": 0,
+                "Hydro": 827,
+                "Other": 1024,
+                "Petroleum": 224,
+                "Natural gas": 37709,
+                "Coal": 10124,
+                "Nuclear": 31149
+            }
+        },
+        {
+            "timestamp": "2023-02-20T00:00:00",
+            "megawatts": {
+                "Wind": 7632,
+                "Solar": 0,
+                "Hydro": 662,
+                "Other": 1150,
+                "Petroleum": 226,
+                "Natural gas": 39720,
+                "Coal": 10894,
+                "Nuclear": 31788
+            }
+        }
+    ]
+}

@@ -1,0 +1,4685 @@
+{
+    "title": "Mid-Atlantic (MIDA) region electricity generation by energy source 3\/21\/2023 \u2013 2\/28\/2023, Eastern Time",
+    "series": [
+        {
+            "name": "Wind",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 4359
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 5522
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 6427
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 7426
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 7947
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 7655
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 8016
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 8383
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 8741
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 8713
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 7704
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 5681
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 4741
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 3940
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 3814
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 3610
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 3303
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 2500
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 2324
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 3380
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 4168
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 5184
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 5957
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 6462
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 5216
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 6662
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 6662
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 6662
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 6045
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 6080
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 6327
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 5732
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 6066
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 5526
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 5470
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 5052
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 5311
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 5262
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 6327
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 6055
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 6121
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 5570
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 6229
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 4774
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 3656
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 3099
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 3169
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 3440
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 6662
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 3795
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 4556
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 4619
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 4612
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 4833
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 5417
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 5915
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 7432
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 8073
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 7958
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 8472
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 8881
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 8762
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 8742
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 8726
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 8538
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 8557
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 8793
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 8888
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 9146
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 9152
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 8962
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 8697
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 3594
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 7293
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 6642
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 6091
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 4875
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 4210
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 3665
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 3253
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 3302
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 3617
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 3294
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 3079
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 3027
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 2688
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 2478
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 2074
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 1738
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 1771
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 1598
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 1898
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 2123
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 2889
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 2617
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 2322
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 7905
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 2052
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 1782
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 1380
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 1367
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 1166
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 1112
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 1188
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 1300
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 1196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 1406
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 1633
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 1646
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 1808
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 1591
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 1237
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 1093
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 1269
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 1531
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 1910
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 2639
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 3793
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 4152
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 4813
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 2397
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 4982
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 5006
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 4767
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 4457
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 3832
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 3862
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 3501
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 2881
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 2299
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 2057
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 2113
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 2362
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 2582
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 2704
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 2789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 2719
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 2701
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 3062
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 3885
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 4980
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 5440
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 5914
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 6583
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 4601
+                }
+            ]
+        },
+        {
+            "name": "Solar",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 92
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 1135
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 2444
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 2921
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 2809
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 2719
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 2671
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 2565
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 2755
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 2003
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 276
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 2
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 2
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 2
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 226
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 806
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 1078
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 1094
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 1466
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 1785
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 1674
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 1454
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 1436
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 993
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 201
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 1
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 168
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 1407
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 2153
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 2227
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 2374
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 2598
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 2377
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 2134
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 2002
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 1560
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 230
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 247
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 1578
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 2446
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 3019
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 3098
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 3302
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 3008
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 2785
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 2359
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 1379
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 226
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 147
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 484
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 1003
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 1299
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 1243
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 1080
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 949
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 924
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 816
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 716
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 197
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 45
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 482
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 883
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 1354
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 1792
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 2128
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 2380
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 2533
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 2610
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 2043
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 430
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 2
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 0
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hydro",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 633
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 578
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 543
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 632
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 648
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 1156
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 1861
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 3179
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 3060
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 1899
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 1261
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 748
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 777
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 786
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 755
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 778
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 1325
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 3766
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 4530
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 4003
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 3186
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 1626
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 794
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 555
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 642
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 642
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 642
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 654
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 1336
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 2819
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 3381
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 3151
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 2360
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 2199
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 1174
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 969
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 862
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 837
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 864
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 1348
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 2547
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 3845
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 3623
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 2967
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 1862
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 842
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 824
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 642
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 676
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 672
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 802
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 817
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 786
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 1770
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 2344
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 1811
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 1103
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 820
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 853
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 779
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 841
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 804
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 799
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 1497
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 2625
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 3848
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 3284
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 2296
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 1422
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 757
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 776
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 719
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 667
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 602
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 676
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 732
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 756
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 1661
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 3286
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 2789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 2342
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 2392
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 1766
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 854
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 873
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 886
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 852
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 1672
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 2918
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 3726
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 3720
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 3478
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 2630
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 1188
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 819
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 707
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 713
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 648
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 637
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 665
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 715
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 924
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 1513
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 2723
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 3380
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 3260
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 2228
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 1636
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 743
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 762
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 1164
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 1659
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 1972
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 3835
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 3067
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 2400
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 1325
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 745
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 671
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 742
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 722
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 684
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 702
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 768
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 703
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 1267
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 1287
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 1658
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 1632
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 854
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 935
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 892
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 943
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 929
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 931
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 1402
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 2315
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 3080
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 2278
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 2048
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 1150
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 921
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 934
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 692
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 848
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 835
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 834
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 840
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 845
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 846
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 1017
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 1011
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 1160
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 1430
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 1604
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 1592
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 1647
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 1561
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 1661
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 1650
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 1575
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 1427
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 1401
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 1385
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 1396
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 1391
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 1320
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 1255
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 854
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 882
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 882
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 882
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 810
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 750
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 764
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 793
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 833
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 990
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 969
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 1035
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 1121
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 1028
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 1083
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 1141
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 1006
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 1027
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 767
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 783
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 783
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 746
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 737
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 699
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 882
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 552
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 584
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 584
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 579
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 600
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 763
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 795
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 937
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 966
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 976
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 947
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 1080
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 1046
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 1425
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 1537
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 1428
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 1292
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 1180
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 1082
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 1120
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 1081
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 888
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 821
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 534
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 796
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 794
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 786
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 842
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 892
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 1079
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 1055
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 1401
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 1476
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 2119
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 2154
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 2000
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 1923
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 2101
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 2162
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 2032
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 1935
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 1941
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 1878
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 1431
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 1421
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 889
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 900
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 801
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 799
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 828
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 824
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 818
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 821
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 794
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 847
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 886
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 847
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 906
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 892
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 872
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 861
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 856
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 839
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 814
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 783
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 794
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 792
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 801
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 795
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 796
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 778
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 611
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 611
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 617
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 630
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 812
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 805
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 811
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 818
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 828
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 869
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 925
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 772
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 760
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 828
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 962
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 754
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 768
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 760
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 746
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 592
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 592
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 647
+                }
+            ]
+        },
+        {
+            "name": "Petroleum",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 206
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 232
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 236
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 238
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 238
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 239
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 238
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 239
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 235
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 234
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 236
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 233
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 232
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 229
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 229
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 247
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 371
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 453
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 432
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 376
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 404
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 410
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 285
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 267
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 230
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 197
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 214
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 348
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 362
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 390
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 398
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 445
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 467
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 432
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 430
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 344
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 422
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 391
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 419
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 427
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 428
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 361
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 364
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 198
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 198
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 197
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 216
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 436
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 536
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 558
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 445
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 527
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 601
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 455
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 428
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 476
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 475
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 495
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 336
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 403
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 336
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 364
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 191
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 191
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 186
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 197
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 199
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 198
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 198
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 440
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 342
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 407
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 436
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 430
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 396
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 350
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 414
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 418
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 378
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 416
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 381
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 433
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 374
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 399
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 384
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 386
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 406
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 196
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 232
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 234
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 232
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 239
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 254
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 460
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 380
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 393
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 486
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 484
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 484
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 470
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 460
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 456
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 448
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 423
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 475
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 473
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 473
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 472
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 230
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 234
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 235
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 235
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 223
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 219
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 208
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 205
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 203
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 200
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 202
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 200
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 214
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 340
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 356
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 334
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 332
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 340
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 335
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 333
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 332
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 360
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 395
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 411
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 200
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 214
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 223
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 232
+                }
+            ]
+        },
+        {
+            "name": "Natural gas",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 36819
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 34672
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 33598
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 33319
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 33861
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 35075
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 40150
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 42773
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 41888
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 42109
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 40967
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 42011
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 41903
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 42581
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 41591
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 40723
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 40400
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 42860
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 45114
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 45244
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 44916
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 43528
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 41402
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 38554
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 36648
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 37338
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 37338
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 37338
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 36732
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 38983
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 43363
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 45925
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 45358
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 45247
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 46376
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 46273
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 45512
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 46351
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 45051
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 45668
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 45730
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 46342
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 46426
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 47180
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 46261
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 45112
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 42621
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 41063
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 37338
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 39592
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 37866
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 37205
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 38338
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 39856
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 42623
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 44918
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 43377
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 43063
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 42579
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 39798
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 40682
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 40673
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 39839
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 39988
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 39984
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 40942
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 43370
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 43862
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 43606
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 41698
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 39570
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 36955
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 39888
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 35291
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 35198
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 36442
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 39219
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 41032
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 45735
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 48411
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 48939
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 48120
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 46840
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 46208
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 44837
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 44021
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 44527
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 45048
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 45245
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 47456
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 49151
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 49030
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 49944
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 48646
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 47656
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 46384
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 36013
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 43601
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 43522
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 43754
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 43535
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 44271
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 45777
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 47411
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 48010
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 48341
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 48089
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 47761
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 47596
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 46532
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 46191
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 45467
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 45789
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 47071
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 48341
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 48934
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 48165
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 46522
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 45456
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 43810
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 43254
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 40903
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 40615
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 40558
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 41039
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 40782
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 41843
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 42430
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 43565
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 44080
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 42838
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 41438
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 38857
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 36464
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 35085
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 34115
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 35932
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 38821
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 42371
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 43766
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 41979
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 42232
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 40076
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 37653
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 42670
+                }
+            ]
+        },
+        {
+            "name": "Coal",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 10150
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 9632
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 9417
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 9240
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 9234
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 9888
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 10356
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 10957
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 11117
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 10414
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 10218
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 10379
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 10273
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 10510
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 10467
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 10383
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 10501
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 10648
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 11692
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 11680
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 10910
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 10525
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 10280
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 10001
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 10115
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 9948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 9948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 9948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 9867
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 10090
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 10413
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 11623
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 11560
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 11684
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 11626
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 11877
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 11560
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 11595
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 11221
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 11229
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 11319
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 11665
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 11809
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 11756
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 12486
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 12512
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 11687
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 10792
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 9948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 10688
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 10468
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 10261
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 10183
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 10671
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 10893
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 11864
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 11928
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 11502
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 11646
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 11454
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 11283
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 11247
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 11098
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 11004
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 10957
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 10975
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 10918
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 11101
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 11119
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 10993
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 10568
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 10205
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 10570
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 9618
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 9393
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 9388
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 9518
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 9769
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 10248
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 11029
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 11029
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 11032
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 11189
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 11056
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 10956
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 10863
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 10797
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 10651
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 10658
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 10702
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 11432
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 11621
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 11500
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 11166
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 11371
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 11366
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 9658
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 10341
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 10312
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 10454
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 10738
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 10833
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 11175
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 11294
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 11328
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 11638
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 12268
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 12662
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 12628
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 12395
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 11722
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 11437
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 11428
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 11446
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 11508
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 12006
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 11805
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 11670
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 11579
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 11536
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 10711
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 11281
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 11155
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 11282
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 11449
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 11488
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 11549
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 11708
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 12061
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 12422
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 12119
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 11932
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 11790
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 11304
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 11084
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 11056
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 11246
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 11540
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 11604
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 12337
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 12126
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 11674
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 11636
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 11505
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 11339
+                }
+            ]
+        },
+        {
+            "name": "Nuclear",
+            "data": [
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 a.m. EST",
+                    "value": 30976
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 a.m. EST",
+                    "value": 30954
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 a.m. EST",
+                    "value": 30948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 a.m. EST",
+                    "value": 30953
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 a.m. EST",
+                    "value": 30964
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 a.m. EST",
+                    "value": 30974
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 a.m. EST",
+                    "value": 30964
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 a.m. EST",
+                    "value": 30954
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 a.m. EST",
+                    "value": 30971
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 a.m. EST",
+                    "value": 30958
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 a.m. EST",
+                    "value": 30957
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 a.m. EST",
+                    "value": 30941
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 12 p.m. EST",
+                    "value": 30926
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 1 p.m. EST",
+                    "value": 30907
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 2 p.m. EST",
+                    "value": 30893
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 3 p.m. EST",
+                    "value": 30901
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 4 p.m. EST",
+                    "value": 30918
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 5 p.m. EST",
+                    "value": 30922
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 6 p.m. EST",
+                    "value": 30926
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 7 p.m. EST",
+                    "value": 30929
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 8 p.m. EST",
+                    "value": 30935
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 9 p.m. EST",
+                    "value": 30949
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 10 p.m. EST",
+                    "value": 30959
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/21\/2023 11 p.m. EST",
+                    "value": 30960
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 a.m. EST",
+                    "value": 30942
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 a.m. EST",
+                    "value": 30972
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 a.m. EST",
+                    "value": 30984
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 a.m. EST",
+                    "value": 30978
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 a.m. EST",
+                    "value": 30977
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 a.m. EST",
+                    "value": 30974
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 a.m. EST",
+                    "value": 30947
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 12 p.m. EST",
+                    "value": 30962
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 1 p.m. EST",
+                    "value": 30961
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 2 p.m. EST",
+                    "value": 30959
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 3 p.m. EST",
+                    "value": 30939
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 4 p.m. EST",
+                    "value": 30947
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 5 p.m. EST",
+                    "value": 30930
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 6 p.m. EST",
+                    "value": 30926
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 7 p.m. EST",
+                    "value": 30929
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 8 p.m. EST",
+                    "value": 30921
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 9 p.m. EST",
+                    "value": 30907
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 10 p.m. EST",
+                    "value": 30957
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/22\/2023 11 p.m. EST",
+                    "value": 30948
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 a.m. EST",
+                    "value": 30970
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 a.m. EST",
+                    "value": 30950
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 a.m. EST",
+                    "value": 30936
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 a.m. EST",
+                    "value": 30922
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 a.m. EST",
+                    "value": 30931
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 a.m. EST",
+                    "value": 30936
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 a.m. EST",
+                    "value": 30938
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 a.m. EST",
+                    "value": 30947
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 a.m. EST",
+                    "value": 30946
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 a.m. EST",
+                    "value": 30932
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 a.m. EST",
+                    "value": 30914
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 a.m. EST",
+                    "value": 30900
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 12 p.m. EST",
+                    "value": 30852
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 1 p.m. EST",
+                    "value": 30820
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 2 p.m. EST",
+                    "value": 30805
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 3 p.m. EST",
+                    "value": 30556
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 4 p.m. EST",
+                    "value": 30722
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 5 p.m. EST",
+                    "value": 30737
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 6 p.m. EST",
+                    "value": 30742
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 7 p.m. EST",
+                    "value": 30768
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 8 p.m. EST",
+                    "value": 30793
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 9 p.m. EST",
+                    "value": 30800
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 10 p.m. EST",
+                    "value": 30844
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/23\/2023 11 p.m. EST",
+                    "value": 30852
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 a.m. EST",
+                    "value": 30952
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 a.m. EST",
+                    "value": 30864
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 a.m. EST",
+                    "value": 30887
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 a.m. EST",
+                    "value": 30886
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 a.m. EST",
+                    "value": 30901
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 a.m. EST",
+                    "value": 30898
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 a.m. EST",
+                    "value": 30902
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 a.m. EST",
+                    "value": 30908
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 a.m. EST",
+                    "value": 30899
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 a.m. EST",
+                    "value": 30904
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 a.m. EST",
+                    "value": 30910
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 a.m. EST",
+                    "value": 30908
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 12 p.m. EST",
+                    "value": 30905
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 1 p.m. EST",
+                    "value": 30891
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 2 p.m. EST",
+                    "value": 30893
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 3 p.m. EST",
+                    "value": 30887
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 4 p.m. EST",
+                    "value": 30898
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 5 p.m. EST",
+                    "value": 30886
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 6 p.m. EST",
+                    "value": 30890
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 7 p.m. EST",
+                    "value": 30892
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 8 p.m. EST",
+                    "value": 30906
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 9 p.m. EST",
+                    "value": 30897
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 10 p.m. EST",
+                    "value": 30889
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/24\/2023 11 p.m. EST",
+                    "value": 30907
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 a.m. EST",
+                    "value": 30861
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 a.m. EST",
+                    "value": 30913
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 a.m. EST",
+                    "value": 30916
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 a.m. EST",
+                    "value": 30920
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 a.m. EST",
+                    "value": 30925
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 a.m. EST",
+                    "value": 30907
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 a.m. EST",
+                    "value": 30922
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 a.m. EST",
+                    "value": 30901
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 a.m. EST",
+                    "value": 30837
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 a.m. EST",
+                    "value": 30671
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 a.m. EST",
+                    "value": 30558
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 a.m. EST",
+                    "value": 30539
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 12 p.m. EST",
+                    "value": 30471
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 1 p.m. EST",
+                    "value": 30524
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 2 p.m. EST",
+                    "value": 30556
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 3 p.m. EST",
+                    "value": 30532
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 4 p.m. EST",
+                    "value": 30596
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 5 p.m. EST",
+                    "value": 30639
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 6 p.m. EST",
+                    "value": 30678
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 7 p.m. EST",
+                    "value": 30712
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 8 p.m. EST",
+                    "value": 30722
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 9 p.m. EST",
+                    "value": 30777
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 10 p.m. EST",
+                    "value": 30699
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/25\/2023 11 p.m. EST",
+                    "value": 30658
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 a.m. EST",
+                    "value": 30892
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 a.m. EST",
+                    "value": 30287
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 a.m. EST",
+                    "value": 30286
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 a.m. EST",
+                    "value": 30291
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 a.m. EST",
+                    "value": 30266
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 a.m. EST",
+                    "value": 30282
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 a.m. EST",
+                    "value": 30266
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 a.m. EST",
+                    "value": 30259
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 a.m. EST",
+                    "value": 30264
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 a.m. EST",
+                    "value": 30254
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 a.m. EST",
+                    "value": 30269
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 a.m. EST",
+                    "value": 30260
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 12 p.m. EST",
+                    "value": 30239
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 1 p.m. EST",
+                    "value": 30220
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 2 p.m. EST",
+                    "value": 30193
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 3 p.m. EST",
+                    "value": 30178
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 4 p.m. EST",
+                    "value": 30180
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 5 p.m. EST",
+                    "value": 30169
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 6 p.m. EST",
+                    "value": 30156
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 7 p.m. EST",
+                    "value": 30114
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 8 p.m. EST",
+                    "value": 30176
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 9 p.m. EST",
+                    "value": 30182
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 10 p.m. EST",
+                    "value": 30173
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/26\/2023 11 p.m. EST",
+                    "value": 30185
+                },
+                {
+                    "Timestamp (Hour Ending)": "2\/27\/2023 12 a.m. EST",
+                    "value": 30257
+                }
+            ]
+        }
+    ]
+}
