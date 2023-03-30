@@ -1,0 +1,17 @@
+services:
+  mongo:
+    container_name: mongodb
+    image: mongo:4.4.17-focal
+    ports:
+      - 27017:27017
+  mongo-express:
+    container_name: mongo-express
+    depends_on:
+      - mongo
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=mongo
+    image: mongo-express:0.54.0
+    ports:
+      - 8081:8081
+    restart: always
+version: '3'
