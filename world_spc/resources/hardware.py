@@ -17,11 +17,13 @@ u_schema = HardwareUpdateSchema()
 class Hardware(Resource):
 
     def post(self):
-        errors = u_schema.validate(request.args)
-        if errors:
-            abort(400, str(errors))
+        # errors = u_schema.validate(request.args)
+        # if errors:
+        #    abort(400, str(errors))
         # TODO Check if user is in a list of users
         # Possibly user a simple decorator for this
-        if request.args['user'] == 'ecogamer':
-            hw_mocker.generate(mongo.db)
-        return 'Write succeeded.'
+        response = {}
+        response.update(
+            {"Payload received by API": request.get_json(force=True)})
+
+        return response
