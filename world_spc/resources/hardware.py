@@ -69,12 +69,15 @@ def update_db(body):
             {'_id': id},
             {'$set': {'total': total}},
         )
-        return True
     else:
-        # insert a new doc with start and end times
-        # init sample count to 1
-        # init sum to gpu_watts + cpu_watts
-        pass
+        new_doc = {
+            'start_time': start,
+            'end_time': end,
+            'samples': [body],
+            'sample_count': 1,
+            'total': body['watts']['gpu_watts'] + body['watts']['cpu_watts']
+        }
+        col.insert_one(new_doc)
 
 
 class Hardware(Resource):
