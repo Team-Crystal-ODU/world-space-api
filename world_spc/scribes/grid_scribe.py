@@ -2,6 +2,48 @@ import json
 import os
 from flask import current_app
 from datetime import datetime
+from dateutil.rrule import rrule, HOURLY
+import requests
+
+
+def update_grid_data(db):
+    with open(os.path.join(current_app.instance_path, 'query')) as f:
+        query = f.readline().strip()
+
+    response = requests.get(query)
+    payload = response.json()
+
+    data = payload['response']['data']
+    first_hour = datetime.strptime(data[-1]['period'], '%Y-%m-%dT%H')
+    last_hour = datetime.strptime(data[0]['period'], '%Y-%m-%dT%H')
+
+    hours = [time for time in rrule(
+        HOURLY, dtstart=first_hour, until=last_hour
+    )]
+
+    col = db.grid
+
+    grouped_by_hour = [[] for hour in hours]
+    for idx, hour in enumerate(hours):
+        search_value = hour.strftime('%Y-%m-%dT%H')
+        for item in data:
+            if search_value in item.values():
+                grouped_by_hour[idx].append(item)
+
+    for group in grouped_by_hour:
+        time = datetime.strptime(group[0]['period'], '%Y-%m-%dT%H')
+        q = col.count_documents({'timestamp': time})
+        if q == 0:
+            doc = {'region': 'mida', 'timestamp': time}
+            megawatts = {}
+            for entry in group:
+                fuel = entry['type-name']
+                value = entry['value']
+                megawatts.update({fuel: value})
+            doc.update({'megawatts': megawatts})
+            col.insert_one(doc)
+
+    return grouped_by_hour
 
 
 def parse_latest():
@@ -39,7 +81,7 @@ def format_timestamp(unformatted):
     Takes the timestamp value from the EIA grid data and formats it
     for insertion into MongoDB. Date is separated from time. Time
     stored as integer (0-23) for hour-ending, where 0 corresponds to
-    midnight.
+    midnight. Only necessary for JSON downloaded via browser.
     Args: The unformatted timestamp string.
     Yields: A list of the form [date: str, time: int, timezone: str]
     """
@@ -54,10 +96,5 @@ def format_timestamp(unformatted):
         parts[1] = ' '.join((parts[1], 'PM'))
     time_part = datetime.strptime(parts[1], '%I %p')
     formatted = ''.join((date_part.strftime('%Y-%m-%dT'),
-                        time_part.strftime('%H:%M:%S')))
+                         time_part.strftime('%H:%M:%S')))
     return formatted
-
-
-if __name__ == "__main__":
-    result = parse_latest()
-    print(result)

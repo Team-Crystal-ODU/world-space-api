@@ -1,0 +1,1 @@
+https://api.eia.gov/v2/electricity/rto/fuel-type-data/data/?frequency=hourly&data[0]=value&facets[respondent][]=MIDA&start=2023-04-01T00&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=5000&api_key=PyGgIxgOPnVdDGzaAzQ68KiijTBUpoHDIQ93LuxR

@@ -2,15 +2,12 @@ from flask_restful import Resource
 from flask import request
 
 from world_spc.extensions import mongo
+from world_spc.scribes.grid_scribe import update_grid_data
 
 
 class HelloWorld(Resource):
     def get(self):
-        data = mongo.db.hello.find_one({"hello": "world"})
-        # _id in BSON does not convert to JSON
-        # stripping from output since it's not useful to API users
-        data.pop('_id')
-        return data
+        return update_grid_data(mongo.db)
 
     def post(self):
         msg = request.form

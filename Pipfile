@@ -9,6 +9,7 @@ pytest = "*"
 flask-restful = "*"
 marshmallow = "*"
 python-dateutil = "*"
+requests = "*"
 
 [dev-packages]
 pylint = "*"
