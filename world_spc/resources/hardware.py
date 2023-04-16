@@ -4,7 +4,6 @@ from flask import request, abort
 from marshmallow import Schema, fields
 
 from world_spc.extensions import mongo
-from world_spc.mocking import hw_mocker
 
 from datetime import datetime, timedelta
 
@@ -93,17 +92,15 @@ class Hardware(Resource):
         # TODO Check if user is in a list of users
         # Possibly use a simple decorator for this
         response = ''
-        if request.args['mock'] is True:
-            hw_mocker.generate(mongo.db)
+        body = request.get_json(force=True)
+        user = request.args['user']
+        timestamp = datetime.strptime(
+            body['timestamp'], '%Y-%m-%dT%H:%M:%S')
+        errors = payload_schema.validate(body)
+        if errors:
+            abort(400, str(errors))
         else:
-            body = request.get_json(force=True)
-            timestamp = datetime.strptime(
-                body['timestamp'], '%Y-%m-%dT%H:%M:%S')
-            errors = payload_schema.validate(body)
-            if errors:
-                abort(400, str(errors))
-            else:
-                body.update({'timestamp': timestamp})
-                update_db(body)
+            body.update({'timestamp': timestamp})
+            update_db(body, user)
 
         return response
