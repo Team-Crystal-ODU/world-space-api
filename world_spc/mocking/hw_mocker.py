@@ -39,8 +39,8 @@ def generate_hour(start, end):
 
 def generate(db):
     est = pytz.timezone('US/Eastern')
-    start = datetime(2023, 2, 14, 0)
-    end = datetime(2023, 2, 20, 0)
+    start = datetime(2023, 4, 1, 0)
+    end = datetime(2023, 4, 25, 0)
 
     hours = [timestamp for timestamp in rrule(
         HOURLY, dtstart=start, until=end

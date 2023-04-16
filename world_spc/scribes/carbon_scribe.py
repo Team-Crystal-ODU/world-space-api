@@ -1,7 +1,6 @@
 from flask import current_app
 from datetime import datetime, timedelta
 from dateutil.rrule import rrule, HOURLY
-from bson.json_util import dumps, loads
 import random
 import pytz
 
@@ -94,7 +93,7 @@ def get_watt_hours_over_interval(start: datetime, end: datetime, user, db):
 
 
 def get_five_day_range():
-    end = datetime(2023, 2, 20, 22, 35, 23)
+    end = datetime(2023, 4, 15, 22, 35, 23)
     start = end - timedelta(days=5)
     return start, end
 

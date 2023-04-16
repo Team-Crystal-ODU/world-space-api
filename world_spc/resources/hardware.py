@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 
 
 class HardwareUpdateSchema(Schema):
-    mock = fields.Str(required=False)
+    user = fields.Str(required=True)
 
 
 class HardwareSampleSchema(Schema):
@@ -43,11 +43,10 @@ def get_start_and_end_times(timestamp: datetime):
     return start, end
 
 
-def update_db(body):
+def update_db(body, user):
     start, end = get_start_and_end_times(body['timestamp'])
     offset = timedelta(hours=4)
     body.update({'timestamp': body['timestamp'] + offset})
-    user = 'ecogamer'
     col = mongo.db[user]
     q = col.count_documents({"start_time": start})
     if q != 0:

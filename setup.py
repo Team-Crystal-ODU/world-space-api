@@ -11,6 +11,8 @@ setup(
         'Flask-PyMongo',
         'python-dateutil',
         'marshmallow',
-        'pymongo[srv]'
+        'pymongo[srv]',
+        'pytz',
+        'requests'
     ]
 )

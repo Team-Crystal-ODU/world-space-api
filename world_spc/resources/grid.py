@@ -8,6 +8,7 @@ import json
 import os
 from world_spc.extensions import mongo
 from world_spc.scribes.carbon_scribe import get_grid_data
+from world_spc.scribes.grid_scribe import update_grid_data
 
 
 # Marshmallow for data validation and defining schema
@@ -48,5 +49,10 @@ class Grid(Resource):
         return get_grid_data(start, end, mongo.db)
 
     def post(self):
-        grid_parser.generate(mongo.db)
+        """
+        Populate the db with hourly grid data. Will query EIA API for all
+        available data from specified start date through latest available.
+        """
+        start = request.args['start']
+        update_grid_data(mongo.db, start)
         return 'Write to database successful.'

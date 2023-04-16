@@ -6,9 +6,12 @@ from dateutil.rrule import rrule, HOURLY
 import requests
 
 
-def update_grid_data(db):
+def update_grid_data(db, start):
     with open(os.path.join(current_app.instance_path, 'query')) as f:
-        query = f.readline().strip()
+        part1 = f.readline().strip()
+        part2 = f.readline().strip()
+
+    query = "".join((part1, start, part2))
 
     response = requests.get(query)
     payload = response.json()
