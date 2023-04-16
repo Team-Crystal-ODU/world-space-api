@@ -10,6 +10,7 @@ from world_spc.resources.grid import Grid
 from world_spc.resources.game import Game
 from world_spc.resources.carbon import Carbon
 from world_spc.resources.hardware import Hardware
+from world_spc.resources.auth import Auth
 
 
 # Flask app factory using some boilerplate from docs
@@ -46,6 +47,7 @@ def create_app(test_config=None):
     api.add_resource(Game, '/game', endpoint='game_ep')
     api.add_resource(Carbon, '/carbon', endpoint='carbon_ep')
     api.add_resource(Hardware, '/hardware', endpoint='hardware_ep')
+    api.add_resource(Auth, '/auth', endpoint='auth_ep')
 
     app.register_blueprint(api_bp)
 
