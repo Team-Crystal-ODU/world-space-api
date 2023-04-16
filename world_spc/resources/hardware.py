@@ -91,7 +91,6 @@ class Hardware(Resource):
             abort(400, str(errors))
         # TODO Check if user is in a list of users
         # Possibly use a simple decorator for this
-        response = ''
         body = request.get_json(force=True)
         user = request.args['user']
         timestamp = datetime.strptime(
@@ -103,4 +102,4 @@ class Hardware(Resource):
             body.update({'timestamp': timestamp})
             update_db(body, user)
 
-        return response
+        return f"Sample successfully posted for {user} at {str(timestamp)}"
