@@ -93,7 +93,7 @@ def get_watt_hours_over_interval(start: datetime, end: datetime, user, db):
 
 
 def get_five_day_range():
-    end = datetime(2023, 4, 15, 22, 35, 23)
+    end = datetime(2023, 4, 16, 22, 35, 23)
     start = end - timedelta(days=5)
     return start, end
 
