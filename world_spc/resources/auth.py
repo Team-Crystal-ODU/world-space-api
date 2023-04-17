@@ -37,3 +37,16 @@ class Auth(Resource):
             return "Success."
         else:
             abort(400, "User and password combination not found.")
+
+    def post(self):
+        errors = schema.validate(request.form)
+        if errors:
+            abort(400, str(errors))
+
+        user = request.form['user']
+        password = request.form['password']
+
+        col = mongo.db['auth']
+        col.insert_one({'user': user, 'password': password})
+
+        return f"User {user} successfully registered."
