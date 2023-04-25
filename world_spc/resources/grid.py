@@ -45,8 +45,12 @@ class Grid(Resource):
                 request.args["end"],
                 '%Y-%m-%dT%H:%M:%S'
             )
+        response = get_grid_data(start, end, mongo.db)
 
-        return get_grid_data(start, end, mongo.db)
+        for obj in response:
+            obj['timestamp'] = str(obj['timestamp'])
+
+        return response
 
     def post(self):
         """

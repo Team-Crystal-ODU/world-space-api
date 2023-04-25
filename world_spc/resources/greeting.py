@@ -1,5 +1,7 @@
 from flask_restful import Resource
+from flask import request
 import requests
+from datetime import datetime
 
 
 from world_spc.extensions import mongo
@@ -14,5 +16,7 @@ class HelloWorld(Resource):
         return r.json()
 
     def post(self):
-        generate(mongo.db)
+        start = datetime.strptime(request.args['start'], '%Y-%m-%dT%H:%M:%S')
+        end = datetime.strptime(request.args['end'], '%Y-%m-%dT%H:%M:%S')
+        generate(start, end, mongo.db)
         return "Generated mock hw data for ecogamer."

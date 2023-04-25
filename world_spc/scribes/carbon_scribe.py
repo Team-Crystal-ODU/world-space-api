@@ -39,7 +39,8 @@ def analyze_co2(grid_data, watt_hours, start: datetime, end: datetime):
         result.append({
             'hour_ending': str(fuels['timestamp']),
             'average_watts': watt_hours,
-            'perc_from_fossil_fuels': perc_from_fossil_fuels
+            'perc_from_fossil_fuels': perc_from_fossil_fuels,
+            'activity': watts['activity']
         })
 
     return co2_total, wH_total, result
@@ -98,6 +99,12 @@ def get_five_day_range():
     return start, end
 
 
+def get_12hr_range():
+    end = datetime(2023, 4, 24, 22, 35, 23)
+    start = end - timedelta(hours=12)
+    return start, end
+
+
 def get_fuel_breakdown(grid_data: dict):
     pass
 
@@ -107,7 +114,7 @@ def get_miles_driven(co2):
 
 
 def get_carbon_readout(user, db):
-    start, end = get_five_day_range()
+    start, end = get_12hr_range()
     watt_hours = get_watt_hours_over_interval(start, end, user, db)
     grid_data = get_grid_data(start, end, db)
     total_co2, total_wH, chart_data = analyze_co2(
